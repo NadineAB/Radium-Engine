@@ -1,0 +1,12 @@
+<map id="SkinningPlugin::SkinningSystem::handleAssetLoading" name="SkinningPlugin::SkinningSystem::handleAssetLoading">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1FileData.html#a067251ed4ac8d221a1bc373ea7a4b158" title="DATA. " alt="" coords="291,5,429,46"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1FileData.html#ac709c4000bd91796eea12d4899d93283" title="Ra::Asset::FileData\l::getHandleData" alt="" coords="291,70,429,111"/>
+<area shape="rect" id="node5" href="$classSkinningPlugin_1_1SkinningComponent.html#a09a347172c78eb543f758bb8af7f42dd" title="SkinningPlugin::Skinning\lComponent::handleWeightsLoading" alt="" coords="246,135,474,177"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core.html#af6bcd3f2b48d9770b18ec88249e607bc" title="LIST. " alt="" coords="557,47,657,73"/>
+<area shape="rect" id="node6" href="$classRa_1_1Asset_1_1AssetData.html#a8b107d2673623febe173f37f14ff777d" title="Ra::Asset::AssetData\l::getName" alt="" coords="531,101,682,142"/>
+<area shape="rect" id="node7" href="$classSkinningPlugin_1_1SkinningComponent.html#a9e718091f9866495eaa60acd893f85d3" title="SkinningPlugin::Skinning\lComponent::setupIO" alt="" coords="523,166,690,207"/>
+<area shape="rect" id="node8" href="$classSkinningPlugin_1_1SkinningComponent.html#a968369707e20f8a760e1d43bcf81d1c1" title="SkinningPlugin::Skinning\lComponent::getDQ" alt="" coords="746,67,913,109"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Component.html#a207c1dc2e97856c22e0767fb77162933" title="Return the entity the component belongs to. " alt="" coords="748,133,911,174"/>
+<area shape="rect" id="node10" href="$classSkinningPlugin_1_1SkinningComponent.html#ae73fc5717f48e55dbe1114a3c14511bc" title="SkinningPlugin::Skinning\lComponent::getRefData" alt="" coords="746,198,913,239"/>
+<area shape="rect" id="node11" href="$classSkinningPlugin_1_1SkinningComponent.html#ad64d06dc345a2dae7a48f5f2a9bbbac7" title="SkinningPlugin::Skinning\lComponent::getFrameData" alt="" coords="739,263,919,305"/>
+</map>

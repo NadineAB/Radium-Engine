@@ -1,0 +1,6 @@
+<map id="Ra::Core::Colors::scatter" name="Ra::Core::Colors::scatter">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="263,5,369,32"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Colors.html#a7b99d6d60a6fe356e854cc7253ec8bb7" title="Ra::Core::Colors::fromHSV" alt="" coords="225,56,407,83"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Colors.html#a5106b4a3ae9cf36ed9f57b733062346c" title="Ra::Core::Colors::Red" alt="" coords="239,107,393,133"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Vector.html#af564521564244ea832d4b66d9cff6fcc" title="Component&#45;wise floor() function on a floating&#45;point vector. " alt="" coords="456,56,611,83"/>
+</map>

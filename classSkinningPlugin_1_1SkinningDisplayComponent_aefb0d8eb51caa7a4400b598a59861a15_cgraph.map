@@ -1,0 +1,19 @@
+<map id="SkinningPlugin::SkinningDisplayComponent::display" name="SkinningPlugin::SkinningDisplayComponent::display">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="552,5,659,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="525,57,686,98"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Colors.html#a7b99d6d60a6fe356e854cc7253ec8bb7" title="Ra::Core::Colors::fromHSV" alt="" coords="253,405,435,432"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Geometry.html#ad9078d959578384d153104cd11c9a02c" title="Ra::Core::Geometry\l::partition" alt="" coords="274,217,414,258"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core_1_1Geometry.html#a37e391d761a6361d940c03b5213f16ea" title="GLOBAL MATRIX ///. " alt="" coords="274,339,414,381"/>
+<area shape="rect" id="node14" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a0bc60f21dbabd745961037f3d2f019c8" title="Ra::Engine::ShaderConfiguration\lFactory::getConfiguration" alt="" coords="237,457,451,498"/>
+<area shape="rect" id="node16" href="$classRa_1_1Engine_1_1RenderObject.html#a62e0eb3a7de5a7d352b565a28260cc06" title="Ra::Engine::RenderObject\l::setVisible" alt="" coords="257,522,431,563"/>
+<area shape="rect" id="node17" href="$classRa_1_1Engine_1_1RenderObject.html#ae1ea453e2b698cda9956586d11b9cfbd" title="Ra::Engine::RenderObject\l::setRenderTechnique" alt="" coords="257,587,431,629"/>
+<area shape="rect" id="node18" href="$classRa_1_1Engine_1_1RenderObject.html#ae8e94954e783a2012fd774598af1eb52" title="Ra::Engine::RenderObject\l::setMesh" alt="" coords="257,653,431,694"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="761,90,925,131"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Vector.html#af564521564244ea832d4b66d9cff6fcc" title="Component&#45;wise floor() function on a floating&#45;point vector. " alt="" coords="528,435,683,461"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Geometry.html#a559688ce2ea83e95725208d799d07a80" title="Ra::Core::Geometry\l::extractVertexSegment" alt="" coords="525,318,685,359"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1Geometry.html#ac9ed208c21d64b54f845c6ef259e7fa5" title="Ra::Core::Geometry\l::extractBitSet" alt="" coords="535,187,675,229"/>
+<area shape="rect" id="node10" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="530,384,681,411"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Core_1_1Geometry.html#a410504fc421a43d2f5b139211db1a67e" title="Ra::Core::Geometry\l::extractTriangleSegment" alt="" coords="521,253,689,294"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="525,122,686,163"/>
+<area shape="rect" id="node15" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a7e20a600c78e8627f0238b342f4b42f2" title="Ra::Engine::ShaderConfiguration\l::getDefaultShaderConfig" alt="" coords="499,486,712,527"/>
+</map>

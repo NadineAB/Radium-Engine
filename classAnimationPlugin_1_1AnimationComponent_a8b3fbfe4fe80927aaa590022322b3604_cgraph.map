@@ -1,0 +1,7 @@
+<map id="AnimationPlugin::AnimationComponent::handleAnimationLoading" name="AnimationPlugin::AnimationComponent::handleAnimationLoading">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a5679e1beb544b515c4539ce48a2f2ba3" title="Ra::Core::Animation\l::Skeleton::size" alt="" coords="299,5,440,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#af2c003e7a85469470d5591b019e8ab80" title="Ra::Core::Animation\l::Handle::getLabel" alt="" coords="299,70,440,111"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="294,136,445,163"/>
+<area shape="rect" id="node6" href="$classRa_1_1Asset_1_1KeyFrame.html#aea56e20481b32c5a81ff6d9eb34f9e97" title="Ra::Asset::KeyFrame\l::insertKeyFrame" alt="" coords="295,187,444,229"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#aba876355658e5f8953033d3bb8f18533" title="Ra::Core::Animation\l::Handle::size" alt="" coords="493,70,635,111"/>
+</map>

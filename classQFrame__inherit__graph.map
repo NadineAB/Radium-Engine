@@ -1,0 +1,6 @@
+<map id="QFrame" name="QFrame">
+<area shape="rect" id="node2" href="$classAnimationUI.html" title="{AnimationUI\n||+ AnimationUI()\l+ ~AnimationUI()\l}" alt="" coords="5,153,128,245"/>
+<area shape="rect" id="node3" href="$classMeshFeatureTrackingUI.html" title="{MeshFeatureTrackingUI\n||+ MeshFeatureTrackingUI()\l+ ~MeshFeatureTrackingUI()\l+ updateTracking()\l+ setMaxV()\l+ setMaxT()\l}" alt="" coords="153,131,343,267"/>
+<area shape="rect" id="node4" href="$classMeshPaintUI.html" title="{MeshPaintUI\n||+ MeshPaintUI()\l+ ~MeshPaintUI()\l}" alt="" coords="367,153,493,245"/>
+<area shape="rect" id="node5" href="$classSkinningPlugin_1_1SkinningWidget.html" title="{SkinningPlugin::Skinning\lWidget\n||+ SkinningWidget()\l+ setCurrent()\l}" alt="" coords="518,145,684,252"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Ra::Core::AdjacencyQueries::getAdjacentFaces" name="Ra::Core::AdjacencyQueries::getAdjacentFaces">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1HalfEdgeData.html#ad52873bdccbdbbcca5829f8386cf6984" title="Returns one of the half edges around given triangle. " alt="" coords="243,23,418,65"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="467,5,629,32"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="473,56,623,83"/>
+</map>

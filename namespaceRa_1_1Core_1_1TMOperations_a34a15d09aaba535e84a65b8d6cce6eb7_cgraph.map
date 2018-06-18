@@ -1,0 +1,4 @@
+<map id="Ra::Core::TMOperations::splitEdge" name="Ra::Core::TMOperations::splitEdge">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1TopologicalMesh.html#abe2a6ac857a94f53fa1180c12ce034f8" title="Return the half&#45;edge associated with a given vertex and face. " alt="" coords="220,5,401,46"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#a2eff9774611ef4e9cdfb2ac969182123" title="Displays given point shown as the crossing of 3 lines of length &#39;scale&#39;. " alt="" coords="219,70,403,111"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Super4PCS::TriangleKdTree::doQueryRestrictedClosestIndexTriangle" name="Super4PCS::TriangleKdTree::doQueryRestrictedClosestIndexTriangle">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#a72015b1cfd7ac6bf7de1ab3714815b02" title="Computes the squared distance from a query triangle v1 to the triangle v2. " alt="" coords="270,61,450,102"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Geometry.html#ad0460aa2e5611fa18161c285cfd6237e" title="Ra::Core::Geometry\l::triangleBarycenter" alt="" coords="290,126,430,167"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#ac80249cc4426604d1febb5b186e8175e" title="Computes the squared distance from a query segment to the triangle v. " alt="" coords="499,61,679,102"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#a69de99ca80dd56c39c37e8f604da3ddb" title="Computes the squared distance from a query line to the triangle v. " alt="" coords="729,27,909,69"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#afc2a145fc94c30b5945a7e1d12305c79" title="Computes the squared distance from a query point Q to the triangle ABC. " alt="" coords="729,93,909,134"/>
+<area shape="rect" id="node5" href="$namespaceOpenMesh.html#a575b338f0fc9ecb5393d23e977e6ac38" title="OpenMesh::dot" alt="" coords="993,5,1103,32"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#aac62676101f136df40b1f238e3db48be" title="Computes the squared distance from a query line to a segment. " alt="" coords="958,57,1138,98"/>
+</map>

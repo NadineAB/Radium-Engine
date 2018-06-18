@@ -1,0 +1,5 @@
+<map id="Ra::Core::Graph::AdjacencyList::pruneLeaves" name="Ra::Core::Graph::AdjacencyList::pruneLeaves">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a63e089f5da2ddc2da39dfd5bd6adb410" title="SIZE. " alt="" coords="475,24,661,65"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a209e8c037a722c617b3feebdbb85c044" title="Ra::Core::Graph::Adjacency\lList::isLeaf" alt="" coords="240,24,427,65"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a8671f51516bd82a2ea4246bc0c1e34f1" title="Ra::Core::Graph::Adjacency\lList::isRoot" alt="" coords="240,89,427,130"/>
+</map>

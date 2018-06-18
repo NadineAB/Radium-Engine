@@ -1,0 +1,5 @@
+<map id="Ra::Gui::TranslateGizmo::setInitialState" name="Ra::Gui::TranslateGizmo::setInitialState">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Camera.html#a50945b715a7bf5be440ce4bcfbc9c798" title="Return the screen coordinates of the given point p (in world coordinates). " alt="" coords="221,38,363,79"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Camera.html#adb545a4a1f889d63ce4fc9a41cdeef2a" title="Return the projection matrix. " alt="" coords="411,5,552,46"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Camera.html#a0940bfd2c92663f462aaf02138ec35f6" title="Return the view matrix. " alt="" coords="411,70,552,111"/>
+</map>

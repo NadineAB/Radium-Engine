@@ -1,0 +1,25 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/Animation/Skinning/SkinningData.hpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/Animation/Skinning/SkinningData.hpp">
+<area shape="rect" id="node2" href="$HandleWeight_8hpp.html" title="Core/Animation/Handle\l/HandleWeight.hpp" alt="" coords="773,307,931,349"/>
+<area shape="rect" id="node4" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1654,579,1777,605"/>
+<area shape="rect" id="node25" href="$Skeleton_8hpp.html" title="Core/Animation/Handle\l/Skeleton.hpp" alt="" coords="1317,126,1475,167"/>
+<area shape="rect" id="node27" href="$Pose_8hpp.html" title="Core/Animation/Pose\l/Pose.hpp" alt="" coords="1069,307,1216,349"/>
+<area shape="rect" id="node32" href="$TriangleMesh_8hpp.html" title="Core/Mesh/TriangleMesh.hpp" alt="" coords="1002,133,1195,160"/>
+<area shape="rect" id="node3" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="1668,398,1852,439"/>
+<area shape="rect" id="node13" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="886,405,1076,432"/>
+<area shape="rect" id="node5" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1727,653,1877,680"/>
+<area shape="rect" id="node19" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="123,496,263,523"/>
+<area shape="rect" id="node23" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="1359,496,1541,523"/>
+<area shape="rect" id="node22" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="187,579,320,605"/>
+<area shape="rect" id="node26" href="$Handle_8hpp.html" title="Core/Animation/Handle\l/Handle.hpp" alt="" coords="1317,217,1475,258"/>
+<area shape="rect" id="node29" href="$AdjacencyList_8hpp.html" title="Core/Utils/Graph/Adjacency\lList.hpp" alt="" coords="1790,217,1975,258"/>
+<area shape="rect" id="node28" href="$Handle_8inl.html" title="Core/Animation/Handle\l/Handle.inl" alt="" coords="1291,307,1448,349"/>
+<area shape="rect" id="node30" href="$AdjacencyList_8inl.html" title="Core/Utils/Graph/Adjacency\lList.inl" alt="" coords="2387,307,2572,349"/>
+<area shape="rect" id="node33" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="1473,315,1687,341"/>
+<area shape="rect" id="node34" href="$MeshTypes_8hpp.html" title="Core/Mesh/MeshTypes.hpp" alt="" coords="526,315,708,341"/>
+<area shape="rect" id="node38" href="$Attribs_8hpp.html" title="Core/Utils/Attribs.hpp" alt="" coords="1615,224,1763,251"/>
+<area shape="rect" id="node44" href="$TriangleMesh_8inl.html" title="Core/Mesh/TriangleMesh.inl" alt="" coords="1006,224,1191,251"/>
+<area shape="rect" id="node35" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="408,405,555,432"/>
+<area shape="rect" id="node37" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="416,496,555,523"/>
+<area shape="rect" id="node39" href="$Log_8hpp.html" title="Core/Log/Log.hpp" alt="" coords="2131,315,2256,341"/>
+<area shape="rect" id="node42" href="$StringUtils_8hpp.html" title="Core/String/StringUtils.hpp" alt="" coords="1977,405,2156,432"/>
+</map>

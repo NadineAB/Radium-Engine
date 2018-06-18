@@ -1,0 +1,6 @@
+<map id="Ra::Core::OBJFileManager::importData" name="Ra::Core::OBJFileManager::importData">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="255,5,417,46"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="255,70,417,111"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1FileManager.html#a32776fbf23e35ba0354e941b95194e73" title="Ra::Core::FileManager\l\&lt; TriangleMesh \&gt;::addLogError\lEntry" alt="" coords="235,135,437,191"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="486,38,650,79"/>
+</map>

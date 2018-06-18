@@ -1,0 +1,4 @@
+<map id="Ra::Engine::LightManager" name="Ra::Engine::LightManager">
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1DefaultLightManager.html" title="DummyLightManager. A simple Light Manager with a list of lights. " alt="" coords="16,624,180,819"/>
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1System.html" title="{Ra::Engine::System\n|# m_components\l|+ System()\l+ ~System()\l+ generateTasks()\l+ registerComponent()\l+ unregisterComponent()\l+ unregisterAllComponents()\l+ getEntityComponents()\l+ handleAssetLoading()\l}" alt="" coords="5,6,192,186"/>
+</map>

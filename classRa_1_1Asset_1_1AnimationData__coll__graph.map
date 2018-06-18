@@ -1,0 +1,13 @@
+<map id="Ra::Asset::AnimationData" name="Ra::Asset::AnimationData">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1AssetData.html" title="{Ra::Asset::AssetData\n||+ AssetData()\l+ ~AssetData()\l+ getName()\l}" alt="" coords="687,1981,837,2088"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="709,1709,788,1787"/>
+<area shape="rect" id="node7" href="$structRa_1_1Asset_1_1HandleAnimation.html" title="{Ra::Asset::HandleAnimation\n||+ HandleAnimation()\l}" alt="" coords="521,1880,708,1957"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="686,1370,812,1462"/>
+<area shape="rect" id="node10" href="$classRa_1_1Asset_1_1AnimationTime.html" title="{Ra::Asset::AnimationTime\n||+ AnimationTime()\l+ AnimationTime()\l+ ~AnimationTime()\l+ getStart()\l+ setStart()\l+ getEnd()\l+ setEnd()\l+ duration()\l+ merge()\l+ contain()\l+ intersect()\l+ isValid()\l+ operator==()\l+ operator!=()\l+ operator\&lt;()\l+ operator==()\l+ operator\&lt;()\l+ operator\&gt;()\l}" alt="" coords="705,361,881,687"/>
+<area shape="rect" id="node8" href="$classRa_1_1Asset_1_1KeyTransform.html" title="{Ra::Asset::KeyTransform\n||+ KeyTransform()\l+ KeyTransform()\l+ ~KeyTransform()\l# defaultFrame()\l# interpolate()\l}" alt="" coords="495,1680,665,1816"/>
+<area shape="rect" id="node9" href="$classRa_1_1Asset_1_1KeyFrame.html" title="{Ra::Asset::KeyFrame\l\&lt; Core::Transform \&gt;\n||+ KeyFrame()\l+ KeyFrame()\l+ ~KeyFrame()\l+ getAnimationTime()\l+ setAnimationTime()\l+ getKeyFrame()\l+ getKeyFrame()\l+ at()\l+ setKeyFrame()\l+ setKeyFrame()\l+ insertKeyFrame()\l+ size()\l+ clear()\l+ empty()\l+ timeSchedule()\l+ reset()\l+ operator=()\l+ operator==()\l+ operator!=()\l# defaultFrame()\l# findRange()\l# interpolate()\l}" alt="" coords="505,1216,653,1616"/>
+<area shape="rect" id="node17" href="$classRa_1_1Asset_1_1KeyFrame.html" title="{Ra::Asset::KeyFrame\l\&lt; FRAME \&gt;\n||+ KeyFrame()\l+ KeyFrame()\l+ ~KeyFrame()\l+ getAnimationTime()\l+ setAnimationTime()\l+ getKeyFrame()\l+ getKeyFrame()\l+ at()\l+ setKeyFrame()\l+ setKeyFrame()\l+ insertKeyFrame()\l+ size()\l+ clear()\l+ empty()\l+ timeSchedule()\l+ reset()\l+ operator=()\l+ operator==()\l+ operator!=()\l# defaultFrame()\l# findRange()\l# interpolate()\l}" alt="" coords="505,752,653,1152"/>
+<area shape="rect" id="node12" href="$classCore_1_1Transform.html" title="{Transform\n||}" alt="" coords="5,147,85,224"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="461,147,584,224"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="971,253,1087,331"/>
+</map>

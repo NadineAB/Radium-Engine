@@ -1,0 +1,9 @@
+<map id="AnimationPlugin::AnimationComponent::setTransform" name="AnimationPlugin::AnimationComponent::setTransform">
+<area shape="rect" id="node2" href="$classAnimationPlugin_1_1AnimationComponent.html#a4f5c1cd3b5cab8464b3d68090d281c0c" title="Returns true if a transform can be edited with the render object index given as a key..." alt="" coords="238,5,421,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#aecd2137452897bd64ba998e255dd3751" title="Ra::Core::Animation\l::Skeleton::getTransform" alt="" coords="246,70,413,111"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a54bd8f8d55c878fa0e49c0f1c971f7aa" title="Ra::Core::Animation\l::Skeleton::setTransform" alt="" coords="246,135,413,177"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a5679e1beb544b515c4539ce48a2f2ba3" title="Ra::Core::Animation\l::Skeleton::size" alt="" coords="492,70,633,111"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a8671f51516bd82a2ea4246bc0c1e34f1" title="Ra::Core::Graph::Adjacency\lList::isRoot" alt="" coords="469,135,656,177"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a209e8c037a722c617b3feebdbb85c044" title="Ra::Core::Graph::Adjacency\lList::isLeaf" alt="" coords="469,201,656,242"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a63e089f5da2ddc2da39dfd5bd6adb410" title="SIZE. " alt="" coords="704,169,891,210"/>
+</map>

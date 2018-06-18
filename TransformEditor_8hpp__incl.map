@@ -1,0 +1,18 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/GuiBase/TransformEditor/TransformEditor.hpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/GuiBase/TransformEditor/TransformEditor.hpp">
+<area shape="rect" id="node2" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="586,349,776,376"/>
+<area shape="rect" id="node20" href="$ItemEntry_8hpp.html" title="Engine/ItemModel/ItemEntry.hpp" alt="" coords="1129,125,1343,152"/>
+<area shape="rect" id="node28" href="$RaGuiBase_8hpp.html" title="GuiBase/RaGuiBase.hpp" alt="" coords="1611,275,1779,301"/>
+<area shape="rect" id="node3" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1061,515,1184,541"/>
+<area shape="rect" id="node15" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="232,432,372,459"/>
+<area shape="rect" id="node19" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="599,432,781,459"/>
+<area shape="rect" id="node4" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1571,589,1721,616"/>
+<area shape="rect" id="node18" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="296,515,429,541"/>
+<area shape="rect" id="node21" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="1573,349,1720,376"/>
+<area shape="rect" id="node22" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1057,200,1204,227"/>
+<area shape="rect" id="node27" href="$PickingManager_8hpp.html" title="GuiBase/Utils/PickingManager.hpp" alt="" coords="1229,200,1453,227"/>
+<area shape="rect" id="node37" href="$ItemEntry_8inl.html" title="Engine/ItemModel/ItemEntry.inl" alt="" coords="719,200,924,227"/>
+<area shape="rect" id="node24" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="1076,275,1215,301"/>
+<area shape="rect" id="node29" href="$Renderer_8hpp.html" title="Engine/Renderer/Renderer.hpp" alt="" coords="1239,275,1440,301"/>
+<area shape="rect" id="node34" href="$EventEnums_8hpp.html" title="Core/Event/EventEnums.hpp" alt="" coords="884,349,1076,376"/>
+<area shape="rect" id="node35" href="$Timer_8hpp.html" title="Core/Time/Timer.hpp" alt="" coords="1101,349,1245,376"/>
+</map>

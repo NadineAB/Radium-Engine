@@ -1,0 +1,13 @@
+<map id="MeshFeatureTrackingPlugin::MeshFeatureTrackingPluginC::onCurrentChanged" name="MeshFeatureTrackingPlugin::MeshFeatureTrackingPluginC::onCurrentChanged">
+<area shape="rect" id="node2" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a66368f335e3ec0d11c6f36957ffde923" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::setData" alt="" coords="257,165,479,221"/>
+<area shape="rect" id="node8" href="$classRa_1_1Gui_1_1PickingManager.html#a93bbe7807a11b0aa423ddcc777dc1168" title="Ra::Gui::PickingManager\l::getCurrent" alt="" coords="284,245,452,286"/>
+<area shape="rect" id="node9" href="$classMeshFeatureTrackingUI.html#ab777ee63149b8a602fe1b2239aceb121" title="MeshFeatureTrackingUI\l::setMaxV" alt="" coords="287,310,449,351"/>
+<area shape="rect" id="node10" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a44ee75a33e55aef1afcd1ceb9d543109" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::getMaxV" alt="" coords="257,5,479,61"/>
+<area shape="rect" id="node11" href="$classMeshFeatureTrackingUI.html#a0ed36b5116dc2a6b219f4b037e635632" title="MeshFeatureTrackingUI\l::setMaxT" alt="" coords="287,375,449,417"/>
+<area shape="rect" id="node12" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a1898df5c97790eb875d473abade574d9" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::getMaxT" alt="" coords="257,85,479,141"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="536,103,699,145"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a32bd0db0d9620bb7e3f0fe50b541dae3" title="Ra::Engine::RenderObject\lManager::getRenderObject" alt="" coords="528,38,707,79"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="542,180,693,207"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="755,38,930,79"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="979,45,1141,72"/>
+</map>

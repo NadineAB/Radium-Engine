@@ -1,0 +1,4 @@
+<map id="Ra::Engine::DrawPrimitives::Disk" name="Ra::Engine::DrawPrimitives::Disk">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Vector.html#a0464b705193d326a5102691dd58d753d" title="Get two vectors orthogonal to a given vector. " alt="" coords="237,5,448,46"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="267,71,418,97"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Ra::IO::AssimpAnimationDataLoader::fetchHandleAnimation" name="Ra::IO::AssimpAnimationDataLoader::fetchHandleAnimation">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1KeyFrame.html#a42442ed8c9ee7f7c24ef52ff62ee30ae" title="RESET. " alt="" coords="263,5,412,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1KeyFrame.html#aea56e20481b32c5a81ff6d9eb34f9e97" title="Ra::Asset::KeyFrame\l::insertKeyFrame" alt="" coords="263,70,412,111"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="260,136,415,163"/>
+<area shape="rect" id="node5" href="$classRa_1_1Asset_1_1KeyFrame.html#a11502b1be2a8476d891058748a4158be" title="Ra::Asset::KeyFrame\l::setAnimationTime" alt="" coords="263,187,412,229"/>
+<area shape="rect" id="node6" href="$classRa_1_1Asset_1_1KeyFrame.html#a061bfb7750328282a1965eb2fee01915" title="Ra::Asset::KeyFrame::at" alt="" coords="253,253,421,280"/>
+</map>

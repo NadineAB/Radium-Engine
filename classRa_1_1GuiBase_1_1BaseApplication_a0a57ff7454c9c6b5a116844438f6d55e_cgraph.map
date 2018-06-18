@@ -1,0 +1,7 @@
+<map id="Ra::GuiBase::BaseApplication::createConnections" name="Ra::GuiBase::BaseApplication::createConnections">
+<area shape="rect" id="node2" href="$classRa_1_1GuiBase_1_1BaseApplication.html#aa19a984e0783e70237b8050feb1a3d2a" title="Ra::GuiBase::BaseApplication\l::appNeedsToQuit" alt="" coords="254,5,453,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a525be12318745eae6c4730dd7570c7bf" title="Ra::GuiBase::BaseApplication\l::initializeOpenGlPlugins" alt="" coords="254,70,453,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Gui_1_1Viewer.html#a17094c0201376a4beedb86fa39cf3fa2" title="Access to the feature picking manager. " alt="" coords="509,11,693,53"/>
+<area shape="rect" id="node5" href="$classRa_1_1Gui_1_1Viewer.html#a19d9e6da9d196e77f7d4bf8fee5ad227" title="Ra::Gui::Viewer::makeCurrent" alt="" coords="502,77,701,104"/>
+<area shape="rect" id="node6" href="$classRa_1_1Gui_1_1Viewer.html#aaf6cf957403cdcbfa8f4dfd0c25c8e74" title="Ra::Gui::Viewer::doneCurrent" alt="" coords="504,128,699,155"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Ra::Gui::CameraInterface::CameraInterface" name="Ra::Gui::CameraInterface::CameraInterface">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1CameraInterface.html#a47770206800ba8c8244c6c7fbfb5c90e" title="Ra::Gui::CameraInterface\l::setCameraFovInDegrees" alt="" coords="227,5,403,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Gui_1_1CameraInterface.html#a3d772d8a443510243c338ac099c02df8" title="Ra::Gui::CameraInterface\l::setCameraZNear" alt="" coords="229,70,401,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Gui_1_1CameraInterface.html#a769b762f8256b20f93b7bd152d8f86a6" title="Ra::Gui::CameraInterface\l::setCameraZFar" alt="" coords="229,135,401,177"/>
+</map>

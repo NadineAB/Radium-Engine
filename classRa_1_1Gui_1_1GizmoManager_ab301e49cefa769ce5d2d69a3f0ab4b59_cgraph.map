@@ -1,0 +1,5 @@
+<map id="Ra::Gui::GizmoManager::GizmoManager" name="Ra::Gui::GizmoManager::GizmoManager">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1SystemEntity.html#a2b341d35802bc8d3e1b7a49833db9730" title="Access the UI Component. " alt="" coords="217,38,391,79"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Entity.html#a2dbff361ff815b56c3b911fdcbb57da9" title="Ra::Engine::Entity\l::getTransformAsMatrix" alt="" coords="441,5,599,46"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Entity.html#a524712805170bfce52ed0a98f7eee436" title="Get component with a given name. " alt="" coords="455,70,585,111"/>
+</map>

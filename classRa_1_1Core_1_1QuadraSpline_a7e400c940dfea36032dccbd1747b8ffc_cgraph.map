@@ -1,0 +1,5 @@
+<map id="Ra::Core::QuadraSpline::df" name="Ra::Core::QuadraSpline::df">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Spline.html#aa40f2b7095d2abea6e7453f3e473f089" title="Set the position of the spline control points. " alt="" coords="235,5,402,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Spline.html#a69a0b88c00f036c227259a9f0c8b5fc0" title="Evaluate speed of the spline. " alt="" coords="249,71,388,97"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Math.html#a43a856c00d750c5f5c28f362b5df8664" title="Returns value v clamped between bounds min and max. " alt="" coords="451,71,605,97"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Ra::Gui::RotateGizmo" name="Ra::Gui::RotateGizmo">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1Gizmo.html" title="{Ra::Gui::Gizmo\n||+ Gizmo()\l+ ~Gizmo()\l+ show()\l+ updateTransform()\l+ selectConstraint()\l+ setInitialState()\l+ mouseMove()\l}" alt="" coords="321,1667,460,1832"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Component.html" title="A component is an element that can be updated by a system. It is also linked to some other components..." alt="" coords="382,1291,580,1589"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Index.html" title="{Ra::Core::Index\n||+ Index()\l+ Index()\l+ isValid()\l+ isInvalid()\l+ setInvalid()\l+ getValue()\l+ setValue()\l+ operator int()\l+ operator=()\l+ operator++()\l+ operator&#45;&#45;()\l+ operator+()\l+ operator+()\l+ operator&#45;()\l+ operator&#45;()\l+ operator==()\l+ operator==()\l+ operator!=()\l+ operator!=()\l+ operator\&lt;()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;()\l+ operator\&gt;=()\l+ operator\&gt;=()\l+ Invalid()\l+ Max()\l}" alt="" coords="5,347,120,835"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="133,161,248,239"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1System.html" title="{Ra::Engine::System\n||+ System()\l+ ~System()\l+ generateTasks()\l+ registerComponent()\l+ unregisterComponent()\l+ unregisterAllComponents()\l+ getEntityComponents()\l+ handleAssetLoading()\l}" alt="" coords="303,973,491,1153"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1Entity.html" title="An entity is an scene element. It ties together components with a transform. " alt="" coords="517,899,691,1226"/>
+<area shape="rect" id="node14" href="$classRa_1_1Core_1_1IndexedObject.html" title="{Ra::Core::IndexedObject\n||+ IndexedObject()\l+ IndexedObject()\l+ ~IndexedObject()\l}" alt="" coords="526,537,692,644"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="729,1024,808,1101"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="717,545,843,637"/>
+</map>

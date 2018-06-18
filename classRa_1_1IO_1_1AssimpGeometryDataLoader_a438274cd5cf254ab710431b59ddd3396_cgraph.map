@@ -1,0 +1,5 @@
+<map id="Ra::IO::AssimpGeometryDataLoader::fetchBitangents" name="Ra::IO::AssimpGeometryDataLoader::fetchBitangents">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="288,5,395,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1GeometryData.html#a863b5b343ec5ea7af019eebbf859b7eb" title="Ra::Asset::GeometryData\l::getBiTangents" alt="" coords="254,57,429,98"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="264,123,419,149"/>
+</map>

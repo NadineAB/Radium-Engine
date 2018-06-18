@@ -1,0 +1,18 @@
+<map id="Ra::GuiBase::ItemModel::addItem" name="Ra::GuiBase::ItemModel::addItem">
+<area shape="rect" id="node2" href="$structRa_1_1Engine_1_1ItemEntry.html#aceafc81a73631955b64999dd39a639da" title="Returns true if the item represents any valid object. " alt="" coords="445,266,597,307"/>
+<area shape="rect" id="node8" href="$structRa_1_1Engine_1_1ItemEntry.html#a898047549069e5b64d3a9a65c058af56" title="Returns true if the item represents a render object. " alt="" coords="668,5,820,46"/>
+<area shape="rect" id="node12" href="$classRa_1_1GuiBase_1_1ItemModel.html#a2b2715ecaecaadeb1e9a110b8d5f05b3" title="Ra::GuiBase::ItemModel\l::findEntryIndex" alt="" coords="222,266,389,307"/>
+<area shape="rect" id="node14" href="$structRa_1_1Engine_1_1ItemEntry.html#a4823dfa3c113db71733979f1719f3b28" title="Returns true if the item represents an entity. " alt="" coords="229,419,381,461"/>
+<area shape="rect" id="node15" href="$structRa_1_1Engine_1_1ItemEntry.html#ac78e7430338c62ed664a16da7e3ea206" title="Returns true if the item represents a component. " alt="" coords="668,499,820,541"/>
+<area shape="rect" id="node16" href="$classRa_1_1GuiBase_1_1TreeModel.html#a5aa24ace72c1c3d29e268cb34dc576f2" title="Get the tree item corresponding to the given index. " alt="" coords="222,550,389,591"/>
+<area shape="rect" id="node3" href="$structRa_1_1Engine_1_1ItemEntry.html#a1fb9fdd74413a1fa5878f53c1cfcf8fd" title="Debug checks. " alt="" coords="888,441,1040,482"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1RadiumEngine.html#a79f6626ce468268791bc5bdfe17b5586" title="Ra::Engine::RadiumEngine\l::getEntityManager" alt="" coords="654,266,834,307"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1EntityManager.html#a5115cccae6aaef614ad4bd08e64d8185" title="Check wether an entity with a given name exists or not. " alt="" coords="655,331,833,373"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1Entity.html#aaf256bea44bbc5bff6aa504aca05ca35" title="Ra::Engine::Entity\l::getName" alt="" coords="679,135,809,177"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1RadiumEngine.html#a58b27bc600ea769f68b0e2938abc7862" title="Manager getters. " alt="" coords="654,201,834,242"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="657,70,831,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Index.html#a7283e7fb9cc134e04ef3cde8877f8fe2" title="INVALID. " alt="" coords="1093,477,1264,504"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="883,45,1045,72"/>
+<area shape="rect" id="node13" href="$classRa_1_1GuiBase_1_1TreeItem.html#ac9e22ded576062a19560fe7bf5318d55" title="Ra::GuiBase::TreeItem\l::getIndexInParent" alt="" coords="443,201,600,242"/>
+<area shape="rect" id="node17" href="$classRa_1_1GuiBase_1_1TreeModel.html#a972106921da4c960f23f81722d3b4cf5" title="Internal functions to check if an item is in the tree. " alt="" coords="438,550,605,591"/>
+</map>

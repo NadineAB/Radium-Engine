@@ -1,0 +1,4 @@
+<map id="Ra::Core::DistanceQueries::lineToTriSq" name="Ra::Core::DistanceQueries::lineToTriSq">
+<area shape="rect" id="node2" href="$namespaceOpenMesh.html#a575b338f0fc9ecb5393d23e977e6ac38" title="OpenMesh::dot" alt="" coords="270,5,381,32"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#aac62676101f136df40b1f238e3db48be" title="Computes the squared distance from a query line to a segment. " alt="" coords="235,57,415,98"/>
+</map>

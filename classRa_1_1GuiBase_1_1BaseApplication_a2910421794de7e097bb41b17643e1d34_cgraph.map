@@ -1,0 +1,14 @@
+<map id="Ra::GuiBase::BaseApplication::setupScene" name="Ra::GuiBase::BaseApplication::setupScene">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#a70881604443264a7fceb751567eaa5b4" title="Ra::Engine::DrawPrimitives\l::Primitive" alt="" coords="253,103,437,145"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1SystemEntity.html#a2b341d35802bc8d3e1b7a49833db9730" title="Access the UI Component. " alt="" coords="258,201,433,242"/>
+<area shape="rect" id="node10" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#a4fdb84120e668a53e6d5056e59e9c29e" title="Ra::Engine::DrawPrimitives\l::Grid" alt="" coords="253,266,437,307"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Core_1_1Colors.html#a9b6b3be86ee487b0a0e387566756b60d" title="Ra::Core::Colors::Grey" alt="" coords="267,332,424,359"/>
+<area shape="rect" id="node12" href="$classRa_1_1Engine_1_1Component.html#a8faa6f03b4a5a8bc30bb8ff402e6b61f" title="Add a new render object to the component. This adds the RO to the manager for drawing. " alt="" coords="264,383,427,425"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a0bc60f21dbabd745961037f3d2f019c8" title="Ra::Engine::ShaderConfiguration\lFactory::getConfiguration" alt="" coords="485,5,699,46"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1RenderObject.html#ae1ea453e2b698cda9956586d11b9cfbd" title="Ra::Engine::RenderObject\l::setRenderTechnique" alt="" coords="505,70,679,111"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1RenderObject.html#ae8e94954e783a2012fd774598af1eb52" title="Ra::Engine::RenderObject\l::setMesh" alt="" coords="505,135,679,177"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a7e20a600c78e8627f0238b342f4b42f2" title="Ra::Engine::ShaderConfiguration\l::getDefaultShaderConfig" alt="" coords="747,5,960,46"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1Entity.html#a2dbff361ff815b56c3b911fdcbb57da9" title="Ra::Engine::Entity\l::getTransformAsMatrix" alt="" coords="513,201,671,242"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1Entity.html#a524712805170bfce52ed0a98f7eee436" title="Get component with a given name. " alt="" coords="527,266,657,307"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="511,383,673,425"/>
+</map>

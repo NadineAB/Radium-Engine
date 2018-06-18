@@ -1,0 +1,17 @@
+<map id="Ra::Core::Geometry::findParametrization" name="Ra::Core::Geometry::findParametrization">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="243,5,349,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="215,57,377,98"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="221,123,371,149"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Geometry.html#a2ce97206423345716bf1b55f60c1c227" title="Ra::Core::Geometry\l::triangleNormal" alt="" coords="226,174,366,215"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Geometry.html#aecb62214bedc582489bc41417f946abd" title="Ra::Core::Geometry\l::barycentricCoordinate" alt="" coords="217,239,375,281"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1Geometry_1_1Mapping.html#a88b94043360f55730de9899181cbd31f" title="Ra::Core::Geometry\l::Mapping::isBoundToElement" alt="" coords="197,305,395,346"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1Geometry_1_1Mapping.html#a77e6d8203213675dd143a7e48866cca2" title="DELTA. " alt="" coords="226,370,366,411"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1Geometry_1_1Mapping.html#a02cc79d48245d002d8fb6587a7ab6df9" title="Ra::Core::Geometry\l::Mapping::setID" alt="" coords="226,435,366,477"/>
+<area shape="rect" id="node13" href="$classRa_1_1Core_1_1Geometry_1_1Mapping.html#a34a8b68d4ff74a12aa4019b515ca68f4" title="Ra::Core::Geometry\l::Mapping::setDelta" alt="" coords="226,501,366,542"/>
+<area shape="rect" id="node15" href="$classRa_1_1Core_1_1Geometry_1_1Mapping.html#a2404a199905a44261da201539c62db97" title="Ra::Core::Geometry\l::Mapping::setAlpha" alt="" coords="226,566,366,607"/>
+<area shape="rect" id="node16" href="$classRa_1_1Core_1_1Geometry_1_1Mapping.html#a982c41a377dbe1cd10e67b463c3d57b2" title="Ra::Core::Geometry\l::Mapping::setBeta" alt="" coords="226,631,366,673"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="443,57,607,98"/>
+<area shape="rect" id="node7" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="463,181,588,208"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1Geometry_1_1Mapping.html#a4f14c58a7a6f13376064743c9284019c" title="ID. " alt="" coords="455,305,595,346"/>
+<area shape="rect" id="node14" href="$namespaceRa_1_1Core_1_1Algorithm.html#abebfe08bb2303204bea2baea8195439d" title="Ra::Core::Algorithm\l::delta" alt="" coords="456,501,595,542"/>
+</map>

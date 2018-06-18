@@ -1,0 +1,18 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Engine/Renderer/Light/SpotLight.hpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Engine/Renderer/Light/SpotLight.hpp">
+<area shape="rect" id="node2" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="369,307,516,333"/>
+<area shape="rect" id="node9" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="179,464,319,491"/>
+<area shape="rect" id="node14" href="$Light_8hpp.html" title="Engine/Renderer/Light\l/Light.hpp" alt="" coords="481,126,631,167"/>
+<area shape="rect" id="node30" href="$SpotLight_8inl.html" title="Engine/Renderer/Light\l/SpotLight.inl" alt="" coords="655,126,805,167"/>
+<area shape="rect" id="node3" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="331,621,481,648"/>
+<area shape="rect" id="node10" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="395,547,519,573"/>
+<area shape="rect" id="node13" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="88,547,221,573"/>
+<area shape="rect" id="node15" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="625,381,815,408"/>
+<area shape="rect" id="node22" href="$Component_8hpp.html" title="Engine/Component/Component.hpp" alt="" coords="779,224,1008,251"/>
+<area shape="rect" id="node29" href="$Light_8inl.html" title="Engine/Renderer/Light\l/Light.inl" alt="" coords="506,217,656,258"/>
+<area shape="rect" id="node21" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="985,464,1167,491"/>
+<area shape="rect" id="node23" href="$IndexedObject_8hpp.html" title="Core/Index/IndexedObject.hpp" alt="" coords="1391,307,1589,333"/>
+<area shape="rect" id="node27" href="$Ray_8hpp.html" title="Core/Math/Ray.hpp" alt="" coords="1060,307,1195,333"/>
+<area shape="rect" id="node28" href="$Component_8inl.html" title="Engine/Component/Component.inl" alt="" coords="783,307,1004,333"/>
+<area shape="rect" id="node24" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1417,381,1564,408"/>
+<area shape="rect" id="node26" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="1383,464,1521,491"/>
+</map>

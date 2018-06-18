@@ -1,0 +1,24 @@
+<map id="Ra::Gui::TranslateGizmo::TranslateGizmo" name="Ra::Gui::TranslateGizmo::TranslateGizmo">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a0c8378dbb382ee9bf93cfe0563e17db4" title="Ra::Core::MeshUtils\l::makeCylinder" alt="" coords="257,169,399,210"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="1147,251,1309,293"/>
+<area shape="rect" id="node15" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a72005b4af3d7a9c2d850395740508d8c" title="Ra::Core::MeshUtils\l::makeCone" alt="" coords="257,258,399,299"/>
+<area shape="rect" id="node16" href="$classRa_1_1Core_1_1TriangleMesh.html#a6ba21a21ecbfaa364c63ba5e3fe3c5f2" title="Ra::Core::TriangleMesh\l::append" alt="" coords="509,430,670,471"/>
+<area shape="rect" id="node17" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a0bc60f21dbabd745961037f3d2f019c8" title="Ra::Engine::ShaderConfiguration\lFactory::getConfiguration" alt="" coords="221,561,435,602"/>
+<area shape="rect" id="node19" href="$classRa_1_1Engine_1_1RenderObject.html#ae1ea453e2b698cda9956586d11b9cfbd" title="Ra::Engine::RenderObject\l::setRenderTechnique" alt="" coords="241,430,415,471"/>
+<area shape="rect" id="node20" href="$classRa_1_1Engine_1_1RenderObject.html#ae8e94954e783a2012fd774598af1eb52" title="Ra::Engine::RenderObject\l::setMesh" alt="" coords="241,495,415,537"/>
+<area shape="rect" id="node21" href="$classRa_1_1Gui_1_1TranslateGizmo.html#a5a100607ad14934626008ba6222a4563" title="Called every time the underlying transform may have changed. " alt="" coords="506,495,673,537"/>
+<area shape="rect" id="node22" href="$classRa_1_1Engine_1_1Component.html#a8faa6f03b4a5a8bc30bb8ff402e6b61f" title="Add a new render object to the component. This adds the RO to the manager for drawing. " alt="" coords="247,626,409,667"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="745,375,906,417"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Vector.html#a0464b705193d326a5102691dd58d753d" title="Get two vectors orthogonal to a given vector. " alt="" coords="484,145,695,186"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="514,211,665,237"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a5398f7b15335cb47b83a2d573f277640" title="Ra::Core::MeshUtils\l::checkConsistency" alt="" coords="518,313,661,354"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="1358,398,1522,439"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="750,441,901,468"/>
+<area shape="rect" id="node10" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a746199d436bb1dc31c4bccb3953743b9" title="Returns the area of a given triangle. " alt="" coords="754,310,897,351"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Core_1_1MeshUtils.html#afbee0fe3203a295fb1f93b33dfb33f81" title="Fills the given array with the vertices of a given triangle. " alt="" coords="955,310,1098,351"/>
+<area shape="rect" id="node12" href="$namespaceRa_1_1Core_1_1Geometry.html#a178f2b7309fe2ea5bc31a3abcb25368e" title="Ra::Core::Geometry\l::triangleArea" alt="" coords="957,485,1097,526"/>
+<area shape="rect" id="node13" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="1165,445,1291,472"/>
+<area shape="rect" id="node14" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="1167,496,1289,523"/>
+<area shape="rect" id="node18" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a7e20a600c78e8627f0238b342f4b42f2" title="Ra::Engine::ShaderConfiguration\l::getDefaultShaderConfig" alt="" coords="483,561,696,602"/>
+<area shape="rect" id="node23" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="508,626,671,667"/>
+</map>

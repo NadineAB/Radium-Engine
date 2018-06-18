@@ -1,0 +1,6 @@
+<map id="Ra::GuiBase::TreeModel" name="Ra::GuiBase::TreeModel">
+<area shape="rect" id="node2" href="$classQAbstractItemModel.html" title="{QAbstractItemModel\n||}" alt="" coords="5,357,147,435"/>
+<area shape="rect" id="node4" href="$classRa_1_1GuiBase_1_1TreeItem.html" title="{Ra::GuiBase::TreeItem\n||+ TreeItem()\l+ ~TreeItem()\l+ TreeItem()\l+ operator=()\l+ getName()\l+ isValid()\l+ isSelectable()\l+ getIndexInParent()\l}" alt="" coords="220,841,377,1021"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="402,248,517,325"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="221,147,360,224"/>
+</map>

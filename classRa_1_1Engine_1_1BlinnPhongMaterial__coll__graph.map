@@ -1,0 +1,6 @@
+<map id="Ra::Engine::BlinnPhongMaterial" name="Ra::Engine::BlinnPhongMaterial">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Material.html" title="{Ra::Engine::Material\n||+ Material()\l+ ~Material()\l+ updateGL()\l+ bind()\l+ getName()\l+ getShaderInclude()\l+ setMaterialAspect()\l+ getMaterialAspect()\l+ isTransparent()\l}" alt="" coords="89,291,236,485"/>
+<area shape="rect" id="node4" href="$classbool.html" title="{bool\n||}" alt="" coords="139,149,185,227"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="221,149,300,227"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="198,6,324,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Ra::IO::AssimpHandleDataLoader::loadHandleTopologyData" name="Ra::IO::AssimpHandleDataLoader::loadHandleTopologyData">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="488,141,595,168"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1HandleData.html#aac2741c32466647b58b76e8310d90ecb" title="DATA. " alt="" coords="270,39,439,80"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1HandleData.html#af6b0000a98985534b50a9817de5bfd58" title="Ra::Asset::HandleData\l::getComponent" alt="" coords="275,104,434,146"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="277,170,432,197"/>
+<area shape="rect" id="node6" href="$classRa_1_1Asset_1_1HandleData.html#aaee6cb0cd26f0745e444ac7bd0412454" title="Ra::Asset::HandleData\l::getIndexOf" alt="" coords="275,222,434,263"/>
+<area shape="rect" id="node7" href="$classRa_1_1Asset_1_1HandleData.html#ad54e901fb20565f1006b721ad17c375a" title="Ra::Asset::HandleData\l::setEdges" alt="" coords="275,287,434,328"/>
+</map>

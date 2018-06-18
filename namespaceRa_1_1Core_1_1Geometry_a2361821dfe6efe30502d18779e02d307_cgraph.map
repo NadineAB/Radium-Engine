@@ -1,0 +1,8 @@
+<map id="Ra::Core::Geometry::areaWeightedNormal" name="Ra::Core::Geometry::areaWeightedNormal">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#a28c10004edc39878acecb94c2ca5b837" title="NORMAL. " alt="" coords="235,5,328,32"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="206,56,357,83"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Geometry.html#a178f2b7309fe2ea5bc31a3abcb25368e" title="Ra::Core::Geometry\l::triangleArea" alt="" coords="211,173,351,214"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Geometry.html#a2ce97206423345716bf1b55f60c1c227" title="Ra::Core::Geometry\l::triangleNormal" alt="" coords="211,107,351,149"/>
+<area shape="rect" id="node5" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="405,123,531,149"/>
+<area shape="rect" id="node6" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="407,180,529,207"/>
+</map>

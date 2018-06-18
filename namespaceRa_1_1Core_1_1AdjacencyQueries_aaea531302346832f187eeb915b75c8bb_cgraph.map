@@ -1,0 +1,8 @@
+<map id="Ra::Core::AdjacencyQueries::getVertexFirstRing" name="Ra::Core::AdjacencyQueries::getVertexFirstRing">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="247,5,409,46"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1HalfEdgeData.html#a0ce0f4d6008be4b69ff3b5294fb701ca" title="Returns the half edges starting from given vertex. " alt="" coords="245,122,411,163"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="463,75,625,101"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Index.html#a7283e7fb9cc134e04ef3cde8877f8fe2" title="INVALID. " alt="" coords="243,188,413,215"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="462,5,626,46"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core.html#a3376e6339252cfb83de46bd312dd2cf8" title="QUERY. " alt="" coords="485,129,603,156"/>
+</map>

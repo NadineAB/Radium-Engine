@@ -1,0 +1,36 @@
+<map id="Ra::IO::AssimpGeometryDataLoader::loadGeometryData" name="Ra::IO::AssimpGeometryDataLoader::loadGeometryData">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="797,384,904,411"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1GeometryData.html#a1757358fc134d3fd1bdc6f67516accb8" title="Ra::Asset::GeometryData\l::setLoadDuplicates" alt="" coords="266,498,441,539"/>
+<area shape="rect" id="node4" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#afcf02a4baea0060c81f9fde8ca6a070b" title="Ra::IO::AssimpGeometryData\lLoader::loadMeshData" alt="" coords="254,629,453,670"/>
+<area shape="rect" id="node32" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#ab38389f07aecc7c690d899fbafe8082e" title="MATERIAL. " alt="" coords="254,945,453,986"/>
+<area shape="rect" id="node34" href="$classRa_1_1Asset_1_1GeometryData.html#a7c2ca971fb4250bb0e2cb85c482806ec" title="DEBUG. " alt="" coords="266,694,441,735"/>
+<area shape="rect" id="node35" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#a79e957b025386a0d911e985e53136d71" title="Ra::IO::AssimpGeometryData\lLoader::loadMeshFrame" alt="" coords="254,563,453,605"/>
+<area shape="rect" id="node5" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#a52df2ebcfac6c77d72d725f6833bccc8" title="NAME. " alt="" coords="509,1003,707,1045"/>
+<area shape="rect" id="node8" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#a0da619e2173b7a422405fd1d2767af42" title="TYPE. " alt="" coords="509,1069,707,1110"/>
+<area shape="rect" id="node10" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#ad369689491711d63ac789df228f4db94" title="VERTEX. " alt="" coords="509,129,707,170"/>
+<area shape="rect" id="node15" href="$classRa_1_1Asset_1_1GeometryData.html#aedb628595b4768888ea0c02c37242ef7" title="Ra::Asset::GeometryData\l::isLineMesh" alt="" coords="521,690,695,731"/>
+<area shape="rect" id="node16" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#ae1a8d24d2eff35f746cfdb4c5dbb740f" title="EDGE. " alt="" coords="509,194,707,235"/>
+<area shape="rect" id="node18" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#a7f554a1a591245ed063fdb5539e4669e" title="FACE. " alt="" coords="509,442,707,483"/>
+<area shape="rect" id="node20" href="$classRa_1_1Asset_1_1GeometryData.html#a2f6d8fbb107960e57e1986447cdff885" title="Ra::Asset::GeometryData\l::isTetraMesh" alt="" coords="521,821,695,862"/>
+<area shape="rect" id="node21" href="$classRa_1_1Asset_1_1GeometryData.html#acd7a4eb5fa51846e16a49d08a704a92d" title="Ra::Asset::GeometryData\l::isHexMesh" alt="" coords="521,886,695,927"/>
+<area shape="rect" id="node22" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#a93585196c7817640e31447e229d83c6c" title="POLYHEDRON. " alt="" coords="509,377,707,418"/>
+<area shape="rect" id="node23" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#a104cc1f1ccf9e9ba3c11f506e8b4947e" title="NORMAL. " alt="" coords="509,507,707,549"/>
+<area shape="rect" id="node26" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#a394b1ea37658c2e6c0150c987c6e4b9f" title="TANGENT. " alt="" coords="509,755,707,797"/>
+<area shape="rect" id="node28" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#a438274cd5cf254ab710431b59ddd3396" title="BITANGENT. " alt="" coords="509,625,707,666"/>
+<area shape="rect" id="node30" href="$classRa_1_1IO_1_1AssimpGeometryDataLoader.html#afaae07a29263cd344435571cc964dac2" title="TEXTURE COORDINATE. " alt="" coords="502,311,714,353"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="773,632,928,659"/>
+<area shape="rect" id="node7" href="$classRa_1_1Asset_1_1GeometryData.html#a243148184c6a5c3aeba47951f75fc73c" title="NAME. " alt="" coords="763,1003,938,1045"/>
+<area shape="rect" id="node9" href="$classRa_1_1Asset_1_1GeometryData.html#a23f044c78e92cc740444a06ab9690e3b" title="Ra::Asset::GeometryData\l::setType" alt="" coords="763,1069,938,1110"/>
+<area shape="rect" id="node11" href="$classRa_1_1Asset_1_1GeometryData.html#a20394106458e5e8deade13af0bec3ebb" title="Ra::Asset::GeometryData\l::getVertices" alt="" coords="763,57,938,98"/>
+<area shape="rect" id="node12" href="$classRa_1_1Asset_1_1GeometryData.html#ad917f1a50860ee72fa2aa8f0d557c8c5" title="DUPLICATES. " alt="" coords="763,253,938,294"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="775,5,926,32"/>
+<area shape="rect" id="node14" href="$classRa_1_1Asset_1_1GeometryData.html#ae7f137aae9b6723ff6b0fc7125b0fd35" title="Ra::Asset::GeometryData\l::isLoadingDuplicates" alt="" coords="763,122,938,163"/>
+<area shape="rect" id="node17" href="$classRa_1_1Asset_1_1GeometryData.html#abe4083fd2256390f3d90734cc9003599" title="Ra::Asset::GeometryData\l::getEdges" alt="" coords="763,187,938,229"/>
+<area shape="rect" id="node19" href="$classRa_1_1Asset_1_1GeometryData.html#acdad9f2b09a7d942db229ace49a4fea0" title="Ra::Asset::GeometryData\l::getFaces" alt="" coords="763,435,938,477"/>
+<area shape="rect" id="node24" href="$classRa_1_1Asset_1_1GeometryData.html#a3b706a2f7490107865f20c4cb71c5777" title="Ra::Asset::GeometryData\l::getNormals" alt="" coords="763,566,938,607"/>
+<area shape="rect" id="node25" href="$classRa_1_1Asset_1_1GeometryData.html#ad31c0f120d5e88c40afefa79c29ae28a" title="DATA. " alt="" coords="763,501,938,542"/>
+<area shape="rect" id="node27" href="$classRa_1_1Asset_1_1GeometryData.html#a5090ec004b5ff8a9c0de0da4c049a5bc" title="Ra::Asset::GeometryData\l::getTangents" alt="" coords="763,755,938,797"/>
+<area shape="rect" id="node29" href="$classRa_1_1Asset_1_1GeometryData.html#a863b5b343ec5ea7af019eebbf859b7eb" title="Ra::Asset::GeometryData\l::getBiTangents" alt="" coords="763,683,938,725"/>
+<area shape="rect" id="node31" href="$classRa_1_1Asset_1_1GeometryData.html#a55dc4072ed4026280b5e124f35d5b550" title="Ra::Asset::GeometryData\l::getTexCoords" alt="" coords="763,318,938,359"/>
+<area shape="rect" id="node33" href="$classRa_1_1Asset_1_1GeometryData.html#af8f718a90d8d778e362e1ac6733f9670" title="Ra::Asset::GeometryData\l::setMaterial" alt="" coords="521,1134,695,1175"/>
+</map>

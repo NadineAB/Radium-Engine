@@ -1,0 +1,25 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/IO/AssimpLoader/AssimpLightDataLoader.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/IO/AssimpLoader/AssimpLightDataLoader.cpp">
+<area shape="rect" id="node2" href="$AssimpLightDataLoader_8hpp.html" title="IO/AssimpLoader/AssimpLight\lDataLoader.hpp" alt="" coords="5,275,203,317"/>
+<area shape="rect" id="node27" href="$LightData_8hpp.html" title="Core/File/LightData.hpp" alt="" coords="919,125,1077,152"/>
+<area shape="rect" id="node41" href="$Log_8hpp.html" title="Core/Log/Log.hpp" alt="" coords="576,283,701,309"/>
+<area shape="rect" id="node45" href="$AssimpWrapper_8hpp.html" title="IO/AssimpLoader/AssimpWrapper.hpp" alt="" coords="2439,125,2684,152"/>
+<area shape="rect" id="node3" href="$DataLoader_8hpp.html" title="Core/File/DataLoader.hpp" alt="" coords="220,373,391,400"/>
+<area shape="rect" id="node6" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="2158,373,2348,400"/>
+<area shape="rect" id="node24" href="$RaIO_8hpp.html" title="IO/RaIO.hpp" alt="" coords="947,547,1043,573"/>
+<area shape="rect" id="node7" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1550,547,1673,573"/>
+<area shape="rect" id="node19" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="2639,464,2779,491"/>
+<area shape="rect" id="node23" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="2146,464,2328,491"/>
+<area shape="rect" id="node8" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1537,621,1687,648"/>
+<area shape="rect" id="node22" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="2560,547,2693,573"/>
+<area shape="rect" id="node29" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="1415,283,1629,309"/>
+<area shape="rect" id="node32" href="$AssetData_8hpp.html" title="Core/File/AssetData.hpp" alt="" coords="1037,373,1203,400"/>
+<area shape="rect" id="node33" href="$Entity_8hpp.html" title="Engine/Entity/Entity.hpp" alt="" coords="1876,200,2039,227"/>
+<area shape="rect" id="node40" href="$LightData_8inl.html" title="Core/File/LightData.inl" alt="" coords="809,200,961,227"/>
+<area shape="rect" id="node30" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="1431,366,1615,407"/>
+<area shape="rect" id="node34" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="1709,547,1856,573"/>
+<area shape="rect" id="node36" href="$IndexedObject_8hpp.html" title="Core/Index/IndexedObject.hpp" alt="" coords="1671,283,1869,309"/>
+<area shape="rect" id="node38" href="$Ray_8hpp.html" title="Core/Math/Ray.hpp" alt="" coords="2445,283,2580,309"/>
+<area shape="rect" id="node39" href="$Entity_8inl.html" title="Engine/Entity/Entity.inl" alt="" coords="2077,283,2231,309"/>
+<area shape="rect" id="node37" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1740,373,1887,400"/>
+<area shape="rect" id="node43" href="$StringUtils_8hpp.html" title="Core/String/StringUtils.hpp" alt="" coords="783,373,961,400"/>
+</map>

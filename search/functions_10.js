@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['quadraspline',['QuadraSpline',['../classRa_1_1Core_1_1QuadraSpline.html#ab488e1e92a911516cc2b193bc17b86f9',1,'Ra::Core::QuadraSpline::QuadraSpline()'],['../classRa_1_1Core_1_1QuadraSpline.html#abe94f87dfaeb8cabe4c1d353111d272b',1,'Ra::Core::QuadraSpline::QuadraSpline(const Curve2D::Vector &amp;p0, const Curve2D::Vector &amp;p1, const Curve2D::Vector &amp;p2)']]],
+  ['quadric',['Quadric',['../classRa_1_1Core_1_1Quadric.html#a1b519985e1e96507441552fe0b989a52',1,'Ra::Core::Quadric::Quadric()'],['../classRa_1_1Core_1_1Quadric.html#ab8a2267e23a1d96e2b08940a04edf3d6',1,'Ra::Core::Quadric::Quadric(const Matrix &amp;a, const Vector &amp;b, double c)'],['../classRa_1_1Core_1_1Quadric.html#a21fd0e17071dc790100c1f7fb31c51f9',1,'Ra::Core::Quadric::Quadric(const Quadric&lt; DIM &gt; &amp;q)'],['../classRa_1_1Core_1_1Quadric.html#a08c2b9f8c5a36742f8947467c8ae167f',1,'Ra::Core::Quadric::Quadric(const Vector &amp;n, Scalar ndotp)']]],
+  ['quadstrip',['QuadStrip',['../namespaceRa_1_1Engine_1_1DrawPrimitives.html#a689a54f735e78a79bb7e0337bf5386d2',1,'Ra::Engine::DrawPrimitives']]],
+  ['querynode',['QueryNode',['../structSuper4PCS_1_1TriangleKdTree_1_1QueryNode.html#a35192ac0ebbe17392aa39db46b34d983',1,'Super4PCS::TriangleKdTree::QueryNode::QueryNode()'],['../structSuper4PCS_1_1TriangleKdTree_1_1QueryNode.html#a0d8e81be366d7f0d562f93699309f5b6',1,'Super4PCS::TriangleKdTree::QueryNode::QueryNode(unsigned int id)']]]
+];

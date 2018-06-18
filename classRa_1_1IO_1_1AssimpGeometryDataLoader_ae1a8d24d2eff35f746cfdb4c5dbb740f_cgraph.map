@@ -1,0 +1,7 @@
+<map id="Ra::IO::AssimpGeometryDataLoader::fetchEdges" name="Ra::IO::AssimpGeometryDataLoader::fetchEdges">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="288,5,395,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1GeometryData.html#abe4083fd2256390f3d90734cc9003599" title="Ra::Asset::GeometryData\l::getEdges" alt="" coords="254,57,429,98"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="264,123,419,149"/>
+<area shape="rect" id="node5" href="$classRa_1_1Asset_1_1GeometryData.html#ae7f137aae9b6723ff6b0fc7125b0fd35" title="Ra::Asset::GeometryData\l::isLoadingDuplicates" alt="" coords="254,174,429,215"/>
+<area shape="rect" id="node6" href="$classRa_1_1Asset_1_1GeometryData.html#ad917f1a50860ee72fa2aa8f0d557c8c5" title="DUPLICATES. " alt="" coords="254,239,429,281"/>
+</map>

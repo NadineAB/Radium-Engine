@@ -1,0 +1,30 @@
+<map id="MeshFeatureTrackingPlugin::MeshFeatureTrackingComponent::initialize" name="MeshFeatureTrackingPlugin::MeshFeatureTrackingComponent::initialize">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1MeshUtils.html#acf5b460cf3a22cd1e35eff5a5e1127ab" title="Create a parametric spherical mesh of given radius. Template parameters set the resolution. " alt="" coords="299,195,466,236"/>
+<area shape="rect" id="node16" href="$classRa_1_1Engine_1_1RenderObject.html#ae9cb914f351555a60d29e8d6afedc06b" title="Ra::Engine::RenderObject\l::createRenderObject" alt="" coords="295,460,470,502"/>
+<area shape="rect" id="node19" href="$classRa_1_1Engine_1_1RenderObject.html#a62e0eb3a7de5a7d352b565a28260cc06" title="Ra::Engine::RenderObject\l::setVisible" alt="" coords="555,526,730,567"/>
+<area shape="rect" id="node21" href="$classRa_1_1Engine_1_1RenderTechnique.html#a7d0c94a20081423baa758dd6e5b3f954" title="Ra::Engine::RenderTechnique\l::createDefaultRenderTechnique" alt="" coords="277,639,488,680"/>
+<area shape="rect" id="node27" href="$classRa_1_1Engine_1_1RenderObject.html#ab80fe6e6565273eac1984ec6e213c354" title="Ra::Engine::RenderObject\l::setPickable" alt="" coords="295,704,470,746"/>
+<area shape="rect" id="node28" href="$classRa_1_1Engine_1_1Component.html#a8faa6f03b4a5a8bc30bb8ff402e6b61f" title="Add a new render object to the component. This adds the RO to the manager for drawing. " alt="" coords="301,802,464,843"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core.html#aa7befada722c44f6bc3d4b64fc8ff100" title="VERTEX. " alt="" coords="597,278,689,305"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="1251,80,1413,122"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="823,195,985,236"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="567,228,718,254"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a5398f7b15335cb47b83a2d573f277640" title="Ra::Core::MeshUtils\l::checkConsistency" alt="" coords="571,111,714,152"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core.html#a6dd9d23e2286b21c927c0cee124c6c1e" title="HALFEDGE. " alt="" coords="853,278,955,305"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="1462,167,1626,208"/>
+<area shape="rect" id="node10" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="829,28,979,54"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a746199d436bb1dc31c4bccb3953743b9" title="Returns the area of a given triangle. " alt="" coords="833,130,975,171"/>
+<area shape="rect" id="node12" href="$namespaceRa_1_1Core_1_1MeshUtils.html#afbee0fe3203a295fb1f93b33dfb33f81" title="Fills the given array with the vertices of a given triangle. " alt="" coords="1059,130,1202,171"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core_1_1Geometry.html#a178f2b7309fe2ea5bc31a3abcb25368e" title="Ra::Core::Geometry\l::triangleArea" alt="" coords="1061,195,1201,236"/>
+<area shape="rect" id="node14" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="1269,156,1395,182"/>
+<area shape="rect" id="node15" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="1271,206,1393,233"/>
+<area shape="rect" id="node17" href="$classRa_1_1Engine_1_1RenderObject.html#acf300c8fdb55fee54d27b3fb46a1e523" title="Ra::Engine::RenderObject\l::RenderObject" alt="" coords="555,460,730,502"/>
+<area shape="rect" id="node18" href="$classRa_1_1Engine_1_1RenderObject.html#ae8e94954e783a2012fd774598af1eb52" title="Ra::Engine::RenderObject\l::setMesh" alt="" coords="555,330,730,371"/>
+<area shape="rect" id="node20" href="$classRa_1_1Engine_1_1RenderObject.html#ae1ea453e2b698cda9956586d11b9cfbd" title="Ra::Engine::RenderObject\l::setRenderTechnique" alt="" coords="555,395,730,436"/>
+<area shape="rect" id="node22" href="$namespaceRa_1_1Engine.html#ae16a1eeeb93530e2a7604d5a53e5fbc4" title="Ra::Engine::RadiumDefault\lRenderTechnique" alt="" coords="551,722,734,763"/>
+<area shape="rect" id="node23" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a0bc60f21dbabd745961037f3d2f019c8" title="Ra::Engine::ShaderConfiguration\lFactory::getConfiguration" alt="" coords="536,787,749,828"/>
+<area shape="rect" id="node25" href="$classRa_1_1Engine_1_1RenderTechnique.html#aaf860d7c30aef24f7c24016952cd8f00" title="Ra::Engine::RenderTechnique\l::setConfiguration" alt="" coords="544,591,741,632"/>
+<area shape="rect" id="node26" href="$classRa_1_1Engine_1_1RenderTechnique.html#a9bddcd20723ee582fd81c363b9148cf9" title="Ra::Engine::RenderTechnique\l::setMaterial" alt="" coords="544,656,741,698"/>
+<area shape="rect" id="node24" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a7e20a600c78e8627f0238b342f4b42f2" title="Ra::Engine::ShaderConfiguration\l::getDefaultShaderConfig" alt="" coords="797,787,1011,828"/>
+<area shape="rect" id="node29" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="561,852,724,894"/>
+</map>

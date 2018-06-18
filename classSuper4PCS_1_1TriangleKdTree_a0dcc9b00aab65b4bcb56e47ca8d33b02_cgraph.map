@@ -1,0 +1,7 @@
+<map id="Super4PCS::TriangleKdTree::doQueryRestrictedClosestIndexes" name="Super4PCS::TriangleKdTree::doQueryRestrictedClosestIndexes">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#ac80249cc4426604d1febb5b186e8175e" title="Computes the squared distance from a query segment to the triangle v. " alt="" coords="286,61,466,102"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#a69de99ca80dd56c39c37e8f604da3ddb" title="Computes the squared distance from a query line to the triangle v. " alt="" coords="515,27,695,69"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#afc2a145fc94c30b5945a7e1d12305c79" title="Computes the squared distance from a query point Q to the triangle ABC. " alt="" coords="515,93,695,134"/>
+<area shape="rect" id="node4" href="$namespaceOpenMesh.html#a575b338f0fc9ecb5393d23e977e6ac38" title="OpenMesh::dot" alt="" coords="779,5,890,32"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1DistanceQueries.html#aac62676101f136df40b1f238e3db48be" title="Computes the squared distance from a query line to a segment. " alt="" coords="745,57,925,98"/>
+</map>

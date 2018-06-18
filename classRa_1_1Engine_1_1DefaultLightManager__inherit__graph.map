@@ -1,0 +1,4 @@
+<map id="Ra::Engine::DefaultLightManager" name="Ra::Engine::DefaultLightManager">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1LightManager.html" title="{Ra::Engine::LightManager\n|# renderData\l# params\l# m_data\l|+ LightManager()\l+ LightManager()\l+ operator=()\l+ ~LightManager()\l+ getLight()\l+ addLight()\l+ count()\l+ preprocess()\l+ prerender()\l+ render()\l+ postrender()\l+ postprocess()\l+ registerComponent()\l+ unregisterComponent()\l+ unregisterAllComponents()\l+ generateTasks()\l+ handleAssetLoading()\l}" alt="" coords="5,235,192,576"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1System.html" title="{Ra::Engine::System\n|# m_components\l|+ System()\l+ ~System()\l+ generateTasks()\l+ registerComponent()\l+ unregisterComponent()\l+ unregisterAllComponents()\l+ getEntityComponents()\l+ handleAssetLoading()\l}" alt="" coords="5,6,192,186"/>
+</map>

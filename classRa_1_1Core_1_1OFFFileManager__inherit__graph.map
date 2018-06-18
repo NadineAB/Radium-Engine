@@ -1,0 +1,4 @@
+<map id="Ra::Core::OFFFileManager" name="Ra::Core::OFFFileManager">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1FileManager.html" title="{Ra::Core::FileManager\l\&lt; TriangleMesh \&gt;\n||+ FileManager()\l+ ~FileManager()\l+ load()\l+ save()\l+ log()\l# addLogEntry()\l# addLogEntry()\l# addLogWarningEntry()\l# addLogErrorEntry()\l# fileExtension()\l# importData()\l# exportData()\l}" alt="" coords="13,323,176,576"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1FileManager.html" title="{Ra::Core::FileManager\l\&lt; DATA, Binary \&gt;\n||+ FileManager()\l+ ~FileManager()\l+ load()\l+ save()\l+ log()\l# addLogEntry()\l# addLogWarningEntry()\l# addLogErrorEntry()\l# addLogEntry()\l# fileExtension()\l# importData()\l# exportData()\l}" alt="" coords="13,5,176,259"/>
+</map>

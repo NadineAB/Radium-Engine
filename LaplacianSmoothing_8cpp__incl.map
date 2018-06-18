@@ -1,0 +1,20 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/Algorithm/Smoothing/LaplacianSmoothing.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/Algorithm/Smoothing/LaplacianSmoothing.cpp">
+<area shape="rect" id="node2" href="$LaplacianSmoothing_8hpp.html" title="Core/Algorithm/Smoothing\l/LaplacianSmoothing.hpp" alt="" coords="522,126,696,167"/>
+<area shape="rect" id="node3" href="$Diffusion_8hpp.html" title="Core/Algorithm/Diffusion\l/Diffusion.hpp" alt="" coords="587,217,751,258"/>
+<area shape="rect" id="node8" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="577,669,700,696"/>
+<area shape="rect" id="node28" href="$VectorArray_8hpp.html" title="Core/Containers/VectorArray.hpp" alt="" coords="562,405,776,432"/>
+<area shape="rect" id="node36" href="$Laplacian_8hpp.html" title="Core/Geometry/Laplacian\l/Laplacian.hpp" alt="" coords="776,217,947,258"/>
+<area shape="rect" id="node4" href="$Delta_8hpp.html" title="Core/Algorithm/Delta\l/Delta.hpp" alt="" coords="120,398,264,439"/>
+<area shape="rect" id="node7" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="815,496,1005,523"/>
+<area shape="rect" id="node25" href="$Adjacency_8hpp.html" title="Core/Geometry/Adjacency\l/Adjacency.hpp" alt="" coords="587,307,763,349"/>
+<area shape="rect" id="node20" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="1664,587,1804,613"/>
+<area shape="rect" id="node24" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="1406,587,1588,613"/>
+<area shape="rect" id="node9" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="563,744,713,771"/>
+<area shape="rect" id="node23" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="1668,669,1801,696"/>
+<area shape="rect" id="node26" href="$AlignedStdVector_8hpp.html" title="Core/Containers/AlignedStd\lVector.hpp" alt="" coords="440,489,624,530"/>
+<area shape="rect" id="node29" href="$MeshTypes_8hpp.html" title="Core/Mesh/MeshTypes.hpp" alt="" coords="954,405,1136,432"/>
+<area shape="rect" id="node33" href="$AdjacencyList_8hpp.html" title="Core/Utils/Graph/Adjacency\lList.hpp" alt="" coords="299,398,484,439"/>
+<area shape="rect" id="node30" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1825,496,1972,523"/>
+<area shape="rect" id="node32" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="1829,587,1968,613"/>
+<area shape="rect" id="node34" href="$AdjacencyList_8inl.html" title="Core/Utils/Graph/Adjacency\lList.inl" alt="" coords="230,489,415,530"/>
+</map>

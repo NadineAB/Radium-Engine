@@ -1,0 +1,10 @@
+<map id="SkinningPlugin::SkinningComponent::endSkinning" name="SkinningPlugin::SkinningComponent::endSkinning">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Geometry.html#a5a28bccc0fb1caa2936a88cea8b3aa52" title="GLOBAL ///. " alt="" coords="233,49,373,90"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="222,114,383,155"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="222,179,383,221"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core.html#a28c10004edc39878acecb94c2ca5b837" title="NORMAL. " alt="" coords="468,5,561,32"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="439,56,590,83"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Geometry.html#a2ce97206423345716bf1b55f60c1c227" title="Ra::Core::Geometry\l::triangleNormal" alt="" coords="445,107,585,149"/>
+<area shape="rect" id="node6" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="645,115,771,141"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="433,175,597,217"/>
+</map>

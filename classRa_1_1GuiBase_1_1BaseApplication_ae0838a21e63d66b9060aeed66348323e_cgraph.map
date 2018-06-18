@@ -1,0 +1,17 @@
+<map id="Ra::GuiBase::BaseApplication::radiumFrame" name="Ra::GuiBase::BaseApplication::radiumFrame">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Timer.html#a8e59666de14b600e25746573c1710318" title="Ra::Core::Timer::getInterval\lSeconds" alt="" coords="265,5,450,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Gui_1_1Viewer.html#aeee8e169e5cdca89d16cde152a7f4657" title="Emits signals corresponding to picking requests. " alt="" coords="273,70,442,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Gui_1_1Viewer.html#a0bc8019968c23fd6ca0d1c27c0d6ec0d" title="Start rendering (potentially asynchronously in a separate thread) " alt="" coords="253,136,461,163"/>
+<area shape="rect" id="node5" href="$classRa_1_1Gui_1_1Viewer.html#aabb347c672746b38052bbd9c7e726c24" title="Blocks until rendering is finished. " alt="" coords="274,187,441,229"/>
+<area shape="rect" id="node6" href="$classRa_1_1Gui_1_1Viewer.html#af27bf06c9bd7d133b81dde4c34469d1e" title="Read&#45;only access to renderer. " alt="" coords="260,253,455,280"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1Renderer.html#af8db8153a92d948aefbe0158273e4626" title="Ra::Engine::Renderer\l::getTimerData" alt="" coords="283,305,431,346"/>
+<area shape="rect" id="node8" href="$structRa_1_1FrameTimerData.html#a7e5a2022b84cf7abf32c4813137d7a89" title="Ra::FrameTimerData\l::print" alt="" coords="285,370,430,411"/>
+<area shape="rect" id="node10" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a38543f32547a83e36ca0c678ac11be57" title="Ra::GuiBase::BaseApplication\l::recordFrame" alt="" coords="258,435,457,477"/>
+<area shape="rect" id="node16" href="$classRa_1_1GuiBase_1_1BaseApplication.html#aa19a984e0783e70237b8050feb1a3d2a" title="Ra::GuiBase::BaseApplication\l::appNeedsToQuit" alt="" coords="258,501,457,542"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1Timer.html#a8a58c8045968d22bd4cefa1177fc6205" title="Ra::Core::Timer::getInterval\lMicro" alt="" coords="510,370,695,411"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Core_1_1StringUtils.html#a63b10a7c14473b4aa762cf00e0432690" title="Ra::Core::StringUtils\l::stringPrintf" alt="" coords="531,435,675,477"/>
+<area shape="rect" id="node14" href="$classRa_1_1Gui_1_1Viewer.html#ab3854bf1c656d1f6bf7e12e61251e9dc" title="Write the current frame as an image. Supports either BMP or PNG file names. " alt="" coords="510,503,695,529"/>
+<area shape="rect" id="node12" href="$namespaceRa_1_1Core_1_1StringUtils.html#ac348328b878bb8f1b1c1a3335ea20c4b" title="Ra::Core::StringUtils\l::stringvPrintf" alt="" coords="744,433,888,474"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="936,440,1043,467"/>
+<area shape="rect" id="node15" href="$namespaceRa_1_1Core_1_1StringUtils.html#a30480ab8fa5ba3ac2824bf91bcddf7bf" title="Ra::Core::StringUtils\l::getFileExt" alt="" coords="744,498,888,539"/>
+</map>

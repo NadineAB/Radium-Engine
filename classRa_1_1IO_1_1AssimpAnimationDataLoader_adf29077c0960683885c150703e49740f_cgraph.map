@@ -1,0 +1,26 @@
+<map id="Ra::IO::AssimpAnimationDataLoader::loadAnimationData" name="Ra::IO::AssimpAnimationDataLoader::loadAnimationData">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="780,645,887,672"/>
+<area shape="rect" id="node3" href="$classRa_1_1IO_1_1AssimpAnimationDataLoader.html#ab0bc77b937a09f8e770b8826d526f980" title="Ra::IO::AssimpAnimationData\lLoader::sceneAnimationSize" alt="" coords="254,223,453,265"/>
+<area shape="rect" id="node4" href="$classRa_1_1IO_1_1AssimpAnimationDataLoader.html#ae6d5be5f9895033f807047b305b79ef8" title="NAME. " alt="" coords="254,129,453,170"/>
+<area shape="rect" id="node7" href="$classRa_1_1IO_1_1AssimpAnimationDataLoader.html#a27689dc210ccf9597f87e330a97f8e9a" title="TIME. " alt="" coords="254,289,453,330"/>
+<area shape="rect" id="node13" href="$classRa_1_1IO_1_1AssimpAnimationDataLoader.html#aa0ff91f44c0889489ef1370d4d041bfd" title="Ra::IO::AssimpAnimationData\lLoader::fetchAnimation" alt="" coords="254,482,453,523"/>
+<area shape="rect" id="node23" href="$classRa_1_1Asset_1_1AnimationData.html#a69850f70524d5c5b7d549a8837edd28b" title="DEBUG. " alt="" coords="266,814,441,855"/>
+<area shape="rect" id="node5" href="$classRa_1_1Asset_1_1AnimationData.html#af45d542d021bbfcf85c60284bb649714" title="NAME. " alt="" coords="514,5,689,46"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="756,240,911,267"/>
+<area shape="rect" id="node8" href="$classRa_1_1Asset_1_1AnimationTime.html#a3d66a6bbd2d5bbcc7e69326bd00c820a" title="Ra::Asset::AnimationTime\l::setStart" alt="" coords="513,253,689,294"/>
+<area shape="rect" id="node9" href="$classRa_1_1Asset_1_1AnimationTime.html#a99e02d1a87c8a6b61d1826592e191e50" title="Ra::Asset::AnimationTime\l::setEnd" alt="" coords="513,187,689,229"/>
+<area shape="rect" id="node10" href="$classRa_1_1Asset_1_1AnimationData.html#ada0a04150c4c9051261d95fcad8b78db" title="Ra::Asset::AnimationData\l::setTime" alt="" coords="514,318,689,359"/>
+<area shape="rect" id="node11" href="$classRa_1_1Asset_1_1AnimationData.html#a7a56f036e3a6b2a7db50ae0bd3a0fb32" title="Ra::Asset::AnimationData\l::setTimeStep" alt="" coords="514,70,689,111"/>
+<area shape="rect" id="node12" href="$namespaceRa_1_1Core_1_1Algorithm.html#abebfe08bb2303204bea2baea8195439d" title="Ra::Core::Algorithm\l::delta" alt="" coords="764,70,903,111"/>
+<area shape="rect" id="node14" href="$classRa_1_1Asset_1_1AnimationData.html#abbf0364d025ccbeb3ae77ef211c1e855" title="TIME. " alt="" coords="514,697,689,738"/>
+<area shape="rect" id="node15" href="$classRa_1_1IO_1_1AssimpAnimationDataLoader.html#a130765ba65955c0d5c3217f813c0a812" title="Ra::IO::AssimpAnimationData\lLoader::fetchHandleAnimation" alt="" coords="502,514,701,555"/>
+<area shape="rect" id="node20" href="$classRa_1_1Asset_1_1AnimationData.html#adf6d483b196fea688300b82fc0c3d185" title="Ra::Asset::AnimationData\l::getTimeStep" alt="" coords="514,383,689,425"/>
+<area shape="rect" id="node21" href="$classRa_1_1Asset_1_1AnimationTime.html#a189ab9544e851ed6ab2d36a2b5d6a952" title="Ra::Asset::AnimationTime\l::merge" alt="" coords="513,449,689,490"/>
+<area shape="rect" id="node22" href="$classRa_1_1Asset_1_1AnimationData.html#ae05331a7e0461688bedfa79ce4e34b4e" title="Ra::Asset::AnimationData\l::setFrames" alt="" coords="514,631,689,673"/>
+<area shape="rect" id="node16" href="$classRa_1_1Asset_1_1KeyFrame.html#a42442ed8c9ee7f7c24ef52ff62ee30ae" title="RESET. " alt="" coords="759,514,908,555"/>
+<area shape="rect" id="node17" href="$classRa_1_1Asset_1_1KeyFrame.html#aea56e20481b32c5a81ff6d9eb34f9e97" title="Ra::Asset::KeyFrame\l::insertKeyFrame" alt="" coords="759,579,908,621"/>
+<area shape="rect" id="node18" href="$classRa_1_1Asset_1_1KeyFrame.html#a11502b1be2a8476d891058748a4158be" title="Ra::Asset::KeyFrame\l::setAnimationTime" alt="" coords="759,397,908,438"/>
+<area shape="rect" id="node19" href="$classRa_1_1Asset_1_1KeyFrame.html#a061bfb7750328282a1965eb2fee01915" title="Ra::Asset::KeyFrame::at" alt="" coords="749,463,917,489"/>
+<area shape="rect" id="node24" href="$classRa_1_1Asset_1_1AnimationTime.html#adab2c237d3d61b3dac6189cc2a66155a" title="TIME. " alt="" coords="513,879,689,921"/>
+<area shape="rect" id="node25" href="$classRa_1_1Asset_1_1AnimationTime.html#a80aac004bfc4237dec4a36a83fe8466a" title="Ra::Asset::AnimationTime\l::getEnd" alt="" coords="513,814,689,855"/>
+</map>

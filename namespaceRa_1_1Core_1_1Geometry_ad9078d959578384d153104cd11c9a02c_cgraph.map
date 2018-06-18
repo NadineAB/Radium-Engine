@@ -1,0 +1,10 @@
+<map id="Ra::Core::Geometry::partition" name="Ra::Core::Geometry::partition">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="225,5,332,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="198,57,359,98"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Geometry.html#a559688ce2ea83e95725208d799d07a80" title="Ra::Core::Geometry\l::extractVertexSegment" alt="" coords="199,122,359,163"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Geometry.html#ac9ed208c21d64b54f845c6ef259e7fa5" title="Ra::Core::Geometry\l::extractBitSet" alt="" coords="209,187,349,229"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="203,253,354,280"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Geometry.html#a410504fc421a43d2f5b139211db1a67e" title="Ra::Core::Geometry\l::extractTriangleSegment" alt="" coords="195,305,363,346"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="198,370,359,411"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="411,214,575,255"/>
+</map>

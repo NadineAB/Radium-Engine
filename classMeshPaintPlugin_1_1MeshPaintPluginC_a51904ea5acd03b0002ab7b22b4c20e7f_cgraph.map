@@ -1,0 +1,25 @@
+<map id="MeshPaintPlugin::MeshPaintPluginC::registerPlugin" name="MeshPaintPlugin::MeshPaintPluginC::registerPlugin">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1RadiumEngine.html#a9abd65287df1c7560d06ff09e4995ef9" title="Ra::Engine::RadiumEngine\l::registerSystem" alt="" coords="251,118,431,159"/>
+<area shape="rect" id="node3" href="$classMeshPaintPlugin_1_1MeshPaintPluginC.html#a2b454d95ffea93f89a0599d023bf5755" title="MeshPaintPlugin::MeshPaint\lPluginC::onCurrentChanged" alt="" coords="246,183,437,225"/>
+<area shape="rect" id="node19" href="$classMeshPaintPlugin_1_1MeshPaintPluginC.html#a9037a6bb68e61ed08dade482730462c8" title="MeshPaintPlugin::MeshPaint\lPluginC::activePaintColor" alt="" coords="246,249,437,290"/>
+<area shape="rect" id="node24" href="$classMeshPaintPlugin_1_1MeshPaintPluginC.html#a08d032068a708eafea55997c7f02702f" title="MeshPaintPlugin::MeshPaint\lPluginC::changePaintColor" alt="" coords="246,314,437,355"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Index.html#a16f988512f9ef442cc97b6bc4809ba45" title="Ra::Core::Index::Invalid" alt="" coords="510,249,671,276"/>
+<area shape="rect" id="node6" href="$classRa_1_1GuiBase_1_1SelectionManager.html#a29cbd250208f1e18d2ab1e0f4d91105d" title="Ra::GuiBase::SelectionManager\l::currentItem" alt="" coords="486,53,695,94"/>
+<area shape="rect" id="node11" href="$classMeshPaintPlugin_1_1MeshPaintSystem.html#a7778723bd43c13d6b9db42ea8b1fbe09" title="MeshPaintPlugin::MeshPaint\lSystem::paintMesh" alt="" coords="495,118,686,159"/>
+<area shape="rect" id="node18" href="$classRa_1_1Gui_1_1PickingManager.html#a93bbe7807a11b0aa423ddcc777dc1168" title="Ra::Gui::PickingManager\l::getCurrent" alt="" coords="507,183,675,225"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Index.html#af6afe563ad57a4ab82f3706987e684ef" title="CONSTRUCTOR. " alt="" coords="772,249,927,276"/>
+<area shape="rect" id="node7" href="$classRa_1_1GuiBase_1_1SelectionManager.html#aec178a6b3de1c04e5e1d16ff72c6e966" title="Ra::GuiBase::SelectionManager\l::itemModel" alt="" coords="745,70,954,111"/>
+<area shape="rect" id="node8" href="$classRa_1_1GuiBase_1_1ItemModel.html#a3236433d461ad6cac5e9390b2685fa3f" title="Ra::GuiBase::ItemModel\l::getEntry" alt="" coords="766,5,933,46"/>
+<area shape="rect" id="node9" href="$classRa_1_1GuiBase_1_1TreeModel.html#a5aa24ace72c1c3d29e268cb34dc576f2" title="Get the tree item corresponding to the given index. " alt="" coords="1026,5,1193,46"/>
+<area shape="rect" id="node10" href="$classRa_1_1GuiBase_1_1TreeModel.html#a972106921da4c960f23f81722d3b4cf5" title="Internal functions to check if an item is in the tree. " alt="" coords="1287,5,1454,46"/>
+<area shape="rect" id="node12" href="$classMeshPaintPlugin_1_1MeshPaintComponent.html#af8ea91954674d7815f830ba3c280a1de" title="MeshPaintPlugin::MeshPaint\lComponent::paintMesh" alt="" coords="754,161,945,202"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="1028,177,1191,218"/>
+<area shape="rect" id="node14" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a32bd0db0d9620bb7e3f0fe50b541dae3" title="Ra::Engine::RenderObject\lManager::getRenderObject" alt="" coords="1020,242,1199,283"/>
+<area shape="rect" id="node17" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="1034,125,1185,152"/>
+<area shape="rect" id="node15" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="1283,242,1458,283"/>
+<area shape="rect" id="node16" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="1525,249,1688,276"/>
+<area shape="rect" id="node20" href="$classMeshPaintPlugin_1_1MeshPaintSystem.html#aefa5e3a92bef793200ef4e32cda1fe80" title="MeshPaintPlugin::MeshPaint\lSystem::startPaintMesh" alt="" coords="495,301,686,342"/>
+<area shape="rect" id="node21" href="$classMeshPaintPlugin_1_1MeshPaintComponent.html#a0c13da0e237aef580f67ad5b900d1036" title="MeshPaintPlugin::MeshPaint\lComponent::startPaint" alt="" coords="754,301,945,342"/>
+<area shape="rect" id="node22" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a0bc60f21dbabd745961037f3d2f019c8" title="Ra::Engine::ShaderConfiguration\lFactory::getConfiguration" alt="" coords="1003,307,1216,349"/>
+<area shape="rect" id="node23" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a7e20a600c78e8627f0238b342f4b42f2" title="Ra::Engine::ShaderConfiguration\l::getDefaultShaderConfig" alt="" coords="1264,307,1477,349"/>
+</map>

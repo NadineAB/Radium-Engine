@@ -1,0 +1,22 @@
+<map id="Ra::GuiBase::TransformEditor::~TransformEditor" name="Ra::GuiBase::TransformEditor::~TransformEditor">
+<area shape="rect" id="node2" href="$classRa_1_1GuiBase_1_1TransformEditor.html#a695de613c324a7376c339548dbd9da8d" title="Change the current editable object,. " alt="" coords="254,415,453,457"/>
+<area shape="rect" id="node3" href="$classRa_1_1GuiBase_1_1TransformEditor.html#aecdcc853ebf6b4ae1dab2c9ee56c96ef" title="Ra::GuiBase::TransformEditor\l::getTransform" alt="" coords="502,415,701,457"/>
+<area shape="rect" id="node4" href="$classRa_1_1GuiBase_1_1TransformEditor.html#ad21b8c46ad2d5c62e309eb16b104ee2f" title="Ra::GuiBase::TransformEditor\l::canEdit" alt="" coords="750,318,949,359"/>
+<area shape="rect" id="node11" href="$structRa_1_1Engine_1_1ItemEntry.html#a898047549069e5b64d3a9a65c058af56" title="Returns true if the item represents a render object. " alt="" coords="1223,70,1375,111"/>
+<area shape="rect" id="node17" href="$structRa_1_1Engine_1_1ItemEntry.html#a4823dfa3c113db71733979f1719f3b28" title="Returns true if the item represents an entity. " alt="" coords="1003,383,1155,425"/>
+<area shape="rect" id="node19" href="$classRa_1_1Engine_1_1Entity.html#adf0ef19e4b56e1d213b9898b60fe0e74" title="Ra::Engine::Entity\l::getTransform" alt="" coords="785,501,914,542"/>
+<area shape="rect" id="node20" href="$structRa_1_1Engine_1_1ItemEntry.html#ac78e7430338c62ed664a16da7e3ea206" title="Returns true if the item represents a component. " alt="" coords="1223,553,1375,594"/>
+<area shape="rect" id="node21" href="$classRa_1_1Engine_1_1Component.html#a3f4195b2f8e93ca2a89b31ab51a44a13" title="Get the transform associated with the given RO index key. " alt="" coords="768,566,931,607"/>
+<area shape="rect" id="node5" href="$structRa_1_1Engine_1_1ItemEntry.html#aceafc81a73631955b64999dd39a639da" title="Returns true if the item represents any valid object. " alt="" coords="1003,253,1155,294"/>
+<area shape="rect" id="node15" href="$structRa_1_1Engine_1_1ItemEntry.html#a09e294208d0896596a42a7a6c7e78f75" title="Returns true if the item can be selected. " alt="" coords="1003,134,1155,175"/>
+<area shape="rect" id="node18" href="$classRa_1_1Engine_1_1Component.html#a0a96ad5cbd7987270bbcf321d6a2e258" title="Returns true if a transform can be edited with the render object index given as a key..." alt="" coords="997,318,1160,359"/>
+<area shape="rect" id="node6" href="$structRa_1_1Engine_1_1ItemEntry.html#a1fb9fdd74413a1fa5878f53c1cfcf8fd" title="Debug checks. " alt="" coords="1449,494,1601,535"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1RadiumEngine.html#a79f6626ce468268791bc5bdfe17b5586" title="Ra::Engine::RadiumEngine\l::getEntityManager" alt="" coords="1209,318,1389,359"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1EntityManager.html#a5115cccae6aaef614ad4bd08e64d8185" title="Check wether an entity with a given name exists or not. " alt="" coords="1209,435,1388,477"/>
+<area shape="rect" id="node10" href="$classRa_1_1Engine_1_1Entity.html#aaf256bea44bbc5bff6aa504aca05ca35" title="Ra::Engine::Entity\l::getName" alt="" coords="1234,253,1363,294"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1RadiumEngine.html#a58b27bc600ea769f68b0e2938abc7862" title="Manager getters. " alt="" coords="1209,135,1389,177"/>
+<area shape="rect" id="node14" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="1438,11,1613,53"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Index.html#a7283e7fb9cc134e04ef3cde8877f8fe2" title="INVALID. " alt="" coords="1661,531,1832,557"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="1665,48,1828,75"/>
+<area shape="rect" id="node16" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a32bd0db0d9620bb7e3f0fe50b541dae3" title="Ra::Engine::RenderObject\lManager::getRenderObject" alt="" coords="1209,5,1388,46"/>
+</map>

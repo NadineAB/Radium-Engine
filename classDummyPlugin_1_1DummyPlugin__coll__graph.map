@@ -1,0 +1,4 @@
+<map id="DummyPlugin::DummyPlugin" name="DummyPlugin::DummyPlugin">
+<area shape="rect" id="node2" href="$classQObject.html" title="{QObject\n||}" alt="" coords="5,108,75,185"/>
+<area shape="rect" id="node3" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html" title="{Ra::Plugins::RadiumPlugin\lInterface\n||+ ~RadiumPluginInterface()\l+ registerPlugin()\l+ doAddWidget()\l+ getWidget()\l+ doAddMenu()\l+ getMenu()\l+ doAddAction()\l+ getAction()\l+ doAddRenderer()\l+ addRenderers()\l+ doAddFileLoader()\l+ addFileLoaders()\l+ openGlInitialize()\l+ doAddROpenGLInitializer()\l}" alt="" coords="100,5,289,288"/>
+</map>

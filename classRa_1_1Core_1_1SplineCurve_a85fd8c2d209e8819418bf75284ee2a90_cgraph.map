@@ -1,0 +1,6 @@
+<map id="Ra::Core::SplineCurve::fdf" name="Ra::Core::SplineCurve::fdf">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Spline.html#aa40f2b7095d2abea6e7453f3e473f089" title="Set the position of the spline control points. " alt="" coords="233,5,399,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Spline.html#a69a0b88c00f036c227259a9f0c8b5fc0" title="Evaluate speed of the spline. " alt="" coords="247,71,385,97"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Spline.html#a28b1d348289fbf5a4355486c5140834e" title="Ra::Core::Spline::f" alt="" coords="251,121,381,148"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Math.html#a43a856c00d750c5f5c28f362b5df8664" title="Returns value v clamped between bounds min and max. " alt="" coords="448,96,603,123"/>
+</map>

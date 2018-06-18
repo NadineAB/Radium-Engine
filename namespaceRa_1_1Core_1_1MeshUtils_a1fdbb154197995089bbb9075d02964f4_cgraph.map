@@ -1,0 +1,10 @@
+<map id="Ra::Core::MeshUtils::getAutoNormals" name="Ra::Core::MeshUtils::getAutoNormals">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="590,8,751,49"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="198,36,349,63"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a8e323c96eb7e1199b5f05fdbf393f219" title="Computes the normal of a given triangle. " alt="" coords="202,88,345,129"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1VectorArray.html#a33438b558d38baf22e7975d26b5c61ca" title="Returns the array as an Eigen Matrix Map. " alt="" coords="197,153,349,194"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="801,8,965,49"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1MeshUtils.html#afbee0fe3203a295fb1f93b33dfb33f81" title="Fills the given array with the vertices of a given triangle. " alt="" coords="398,37,541,78"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Geometry.html#a2ce97206423345716bf1b55f60c1c227" title="Ra::Core::Geometry\l::triangleNormal" alt="" coords="399,102,539,144"/>
+<area shape="rect" id="node8" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="608,110,733,136"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Ra::GuiBase::TreeModel::flags" name="Ra::GuiBase::TreeModel::flags">
+<area shape="rect" id="node2" href="$classRa_1_1GuiBase_1_1TreeModel.html#a5aa24ace72c1c3d29e268cb34dc576f2" title="Get the tree item corresponding to the given index. " alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node4" href="$classRa_1_1GuiBase_1_1TreeItem.html#a37daa1ee56496f2e903e04a49d8d4b09" title="Return true if the represented object is valid. " alt="" coords="227,70,384,111"/>
+<area shape="rect" id="node5" href="$classRa_1_1GuiBase_1_1TreeItem.html#a9c73e2634e9500f6be194c211480d7cb" title="Return true if the represented object can be selected. " alt="" coords="227,135,384,177"/>
+<area shape="rect" id="node3" href="$classRa_1_1GuiBase_1_1TreeModel.html#a972106921da4c960f23f81722d3b4cf5" title="Internal functions to check if an item is in the tree. " alt="" coords="438,5,605,46"/>
+</map>

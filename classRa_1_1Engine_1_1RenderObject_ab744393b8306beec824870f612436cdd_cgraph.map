@@ -1,0 +1,7 @@
+<map id="Ra::Engine::RenderObject::getMeshAabb" name="Ra::Engine::RenderObject::getMeshAabb">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1MeshUtils.html#aeac734f3451b397f845a3e99e66bc2b8" title="Ra::Core::MeshUtils\l::getAabb" alt="" coords="230,38,373,79"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1PointCloud.html#a28a01328c4602562cb1901d6cc618635" title="Ra::Core::PointCloud\l::aabb" alt="" coords="429,5,576,46"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="422,70,583,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1VectorArray.html#a33438b558d38baf22e7975d26b5c61ca" title="Returns the array as an Eigen Matrix Map. " alt="" coords="639,5,791,46"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="633,70,797,111"/>
+</map>

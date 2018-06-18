@@ -1,0 +1,16 @@
+<map id="Ra::Core::TopologicalMesh::TopologicalMesh" name="Ra::Core::TopologicalMesh::TopologicalMesh">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Vector.html#af564521564244ea832d4b66d9cff6fcc" title="Component&#45;wise floor() function on a floating&#45;point vector. " alt="" coords="259,27,413,53"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1TriangleMesh.html#a49ec63044477bd5bdff8d57a5114f011" title="Ra::Core::TriangleMesh\l::attribManager" alt="" coords="510,135,671,177"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribManager.html#aed37bc0178d505f4fce3d856badcc706" title="const acces to attrib vector " alt="" coords="254,361,418,402"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core.html#abb46c5a60ddd6094b40710dcb9e745f5" title="Ra::Core::addAttribPairToTopo" alt="" coords="235,77,437,104"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="255,295,417,337"/>
+<area shape="rect" id="node10" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="255,230,417,271"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#a7c7d8914b3f2f176becda99c2c6453c0" title="Ra::Engine::DrawPrimitives\l::Normal" alt="" coords="244,426,428,467"/>
+<area shape="rect" id="node14" href="$classRa_1_1Core_1_1TopologicalMesh.html#abe2a6ac857a94f53fa1180c12ce034f8" title="Return the half&#45;edge associated with a given vertex and face. " alt="" coords="245,491,427,533"/>
+<area shape="rect" id="node15" href="$namespaceRa_1_1Core.html#adb0829c3f7f415ef33cab26b94e21478" title="Ra::Core::copyAttribToTopo" alt="" coords="243,179,429,205"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1AttribManager.html#a97c505630ee31ba828c08eeb04ec3ac5" title="getAttrib Grab an attribute handler by name " alt="" coords="509,5,673,46"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1AttribBase.html#a8bc2827bfe23f9c6def2647a946ebdc8" title="Ra::Core::AttribBase\l::getName" alt="" coords="519,70,663,111"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="509,230,673,271"/>
+<area shape="rect" id="node12" href="$namespaceRa_1_1Core_1_1Vector.html#a0464b705193d326a5102691dd58d753d" title="Get two vectors orthogonal to a given vector. " alt="" coords="485,393,696,434"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core_1_1QuaternionUtils.html#ae49b72169aa4a3cb300979b34c6e1289" title="Returns the quaternion q multipled by a scalar factor of k. " alt="" coords="504,458,677,499"/>
+</map>

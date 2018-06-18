@@ -1,0 +1,6 @@
+<map id="Ra::IO::AssimpGeometryDataLoader::fetchTextureCoordinates" name="Ra::IO::AssimpGeometryDataLoader::fetchTextureCoordinates">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="301,5,408,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1GeometryData.html#a55dc4072ed4026280b5e124f35d5b550" title="Ra::Asset::GeometryData\l::getTexCoords" alt="" coords="267,57,442,98"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1GeometryData.html#ad31c0f120d5e88c40afefa79c29ae28a" title="DATA. " alt="" coords="267,122,442,163"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="277,188,432,215"/>
+</map>

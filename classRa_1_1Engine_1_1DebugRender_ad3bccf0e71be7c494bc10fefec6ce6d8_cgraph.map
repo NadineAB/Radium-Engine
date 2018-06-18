@@ -1,0 +1,6 @@
+<map id="Ra::Engine::DebugRender::addCircle" name="Ra::Engine::DebugRender::addCircle">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1DebugRender.html#a35b2c4a2e8776d9465881c27f3dacdf8" title="Ra::Engine::DebugRender\l::addMesh" alt="" coords="234,5,409,46"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#a67263e846b6ecaff66e62576e7a93c21" title="Ra::Engine::DrawPrimitives\l::Circle" alt="" coords="229,70,413,111"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Vector.html#a0464b705193d326a5102691dd58d753d" title="Get two vectors orthogonal to a given vector. " alt="" coords="461,41,672,82"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="491,107,642,133"/>
+</map>

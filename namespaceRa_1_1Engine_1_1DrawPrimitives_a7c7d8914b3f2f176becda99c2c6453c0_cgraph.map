@@ -1,0 +1,4 @@
+<map id="Ra::Engine::DrawPrimitives::Normal" name="Ra::Engine::DrawPrimitives::Normal">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Vector.html#a0464b705193d326a5102691dd58d753d" title="Get two vectors orthogonal to a given vector. " alt="" coords="237,5,448,46"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1QuaternionUtils.html#ae49b72169aa4a3cb300979b34c6e1289" title="Returns the quaternion q multipled by a scalar factor of k. " alt="" coords="256,70,429,111"/>
+</map>

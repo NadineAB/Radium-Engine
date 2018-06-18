@@ -1,0 +1,5 @@
+<map id="Ra::Engine::RenderObject::getTransformAsMatrix" name="Ra::Engine::RenderObject::getTransformAsMatrix">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1RenderObject.html#a46deaf8ca7b8eed5f2cbfaca72354d1a" title="Ra::Engine::RenderObject\l::getTransform" alt="" coords="230,38,405,79"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Component.html#a207c1dc2e97856c22e0767fb77162933" title="Return the entity the component belongs to. " alt="" coords="453,5,616,46"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Entity.html#adf0ef19e4b56e1d213b9898b60fe0e74" title="Ra::Engine::Entity\l::getTransform" alt="" coords="470,70,599,111"/>
+</map>

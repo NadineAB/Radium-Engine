@@ -1,0 +1,14 @@
+<map id="Ra::Core::MeshUtils::makeTube" name="Ra::Core::MeshUtils::makeTube">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="859,77,1021,119"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="457,192,618,233"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Vector.html#a0464b705193d326a5102691dd58d753d" title="Get two vectors orthogonal to a given vector. " alt="" coords="197,215,408,256"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="227,281,378,307"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a5398f7b15335cb47b83a2d573f277640" title="Ra::Core::MeshUtils\l::checkConsistency" alt="" coords="231,97,374,139"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="1070,164,1234,205"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="462,25,613,51"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a746199d436bb1dc31c4bccb3953743b9" title="Returns the area of a given triangle. " alt="" coords="466,127,609,168"/>
+<area shape="rect" id="node10" href="$namespaceRa_1_1Core_1_1MeshUtils.html#afbee0fe3203a295fb1f93b33dfb33f81" title="Fills the given array with the vertices of a given triangle. " alt="" coords="667,127,810,168"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Core_1_1Geometry.html#a178f2b7309fe2ea5bc31a3abcb25368e" title="Ra::Core::Geometry\l::triangleArea" alt="" coords="669,192,809,233"/>
+<area shape="rect" id="node12" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="877,203,1003,230"/>
+<area shape="rect" id="node13" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="879,153,1001,179"/>
+</map>

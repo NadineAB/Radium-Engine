@@ -1,0 +1,18 @@
+<map id="Ra::Core::Geometry::VariationalShapeApproximation&lt; K_Region, Type &gt;" name="Ra::Core::Geometry::VariationalShapeApproximation&lt; K_Region, Type &gt;">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html" title="The VariationalShapeApproximationBase class. " alt="" coords="753,1352,1013,1723"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="487,881,596,959"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="873,881,988,959"/>
+<area shape="rect" id="node13" title="STL class. " alt="" coords="1173,271,1344,363"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="1231,147,1401,239"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="1002,264,1165,371"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="1538,395,1701,501"/>
+<area shape="rect" id="node11" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\&lt; V \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="1346,710,1531,802"/>
+<area shape="rect" id="node22" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Triangle \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="1229,867,1381,973"/>
+<area shape="rect" id="node25" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Face \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="1405,867,1557,973"/>
+<area shape="rect" id="node12" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\&lt; V \&gt;\n||}" alt="" coords="1294,573,1511,651"/>
+<area shape="rect" id="node14" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\&lt; T \&gt;\n||}" alt="" coords="1296,409,1512,487"/>
+<area shape="rect" id="node23" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Triangle \&gt;\n||}" alt="" coords="1085,566,1269,658"/>
+<area shape="rect" id="node26" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Face \&gt;\n||}" alt="" coords="1536,566,1720,658"/>
+<area shape="rect" id="node16" href="$classbool.html" title="{bool\n||}" alt="" coords="1158,881,1204,959"/>
+<area shape="rect" id="node21" href="$classRa_1_1Core_1_1TriangleMesh.html" title="{Ra::Core::TriangleMesh\n||+ TriangleMesh()\l+ TriangleMesh()\l+ operator=()\l+ clear()\l+ append()\l+ vertices()\l+ normals()\l+ vertices()\l+ normals()\l+ attribManager()\l+ attribManager()\l}" alt="" coords="1394,1051,1555,1275"/>
+</map>

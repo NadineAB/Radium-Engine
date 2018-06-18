@@ -1,0 +1,29 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/GuiBase/Viewer/Gizmo/GizmoManager.hpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/GuiBase/Viewer/Gizmo/GizmoManager.hpp">
+<area shape="rect" id="node3" href="$TransformEditor_8hpp.html" title="GuiBase/TransformEditor\l/TransformEditor.hpp" alt="" coords="598,126,767,167"/>
+<area shape="rect" id="node36" href="$Gizmo_8hpp.html" title="GuiBase/Viewer/Gizmo\l/Gizmo.hpp" alt="" coords="1075,217,1233,258"/>
+<area shape="rect" id="node4" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="1991,496,2181,523"/>
+<area shape="rect" id="node22" href="$ItemEntry_8hpp.html" title="Engine/ItemModel/ItemEntry.hpp" alt="" coords="345,224,559,251"/>
+<area shape="rect" id="node30" href="$RaGuiBase_8hpp.html" title="GuiBase/RaGuiBase.hpp" alt="" coords="5,405,173,432"/>
+<area shape="rect" id="node5" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1707,669,1831,696"/>
+<area shape="rect" id="node17" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="1484,587,1624,613"/>
+<area shape="rect" id="node21" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="1851,587,2033,613"/>
+<area shape="rect" id="node6" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1255,744,1405,771"/>
+<area shape="rect" id="node20" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="1549,669,1683,696"/>
+<area shape="rect" id="node23" href="$RaEngine_8hpp.html" title="Engine/RaEngine.hpp" alt="" coords="1327,496,1475,523"/>
+<area shape="rect" id="node24" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1045,587,1192,613"/>
+<area shape="rect" id="node29" href="$PickingManager_8hpp.html" title="GuiBase/Utils/PickingManager.hpp" alt="" coords="698,315,923,341"/>
+<area shape="rect" id="node35" href="$ItemEntry_8inl.html" title="Engine/ItemModel/ItemEntry.inl" alt="" coords="349,315,555,341"/>
+<area shape="rect" id="node26" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="989,669,1128,696"/>
+<area shape="rect" id="node31" href="$Renderer_8hpp.html" title="Engine/Renderer/Renderer.hpp" alt="" coords="803,405,1004,432"/>
+<area shape="rect" id="node37" href="$Component_8hpp.html" title="Engine/Component/Component.hpp" alt="" coords="2124,315,2353,341"/>
+<area shape="rect" id="node41" href="$RadiumEngine_8hpp.html" title="Engine/RadiumEngine.hpp" alt="" coords="451,405,627,432"/>
+<area shape="rect" id="node44" href="$RenderObject_8hpp.html" title="Engine/Renderer/RenderObject\l/RenderObject.hpp" alt="" coords="1412,307,1615,349"/>
+<area shape="rect" id="node47" href="$RenderObjectManager_8hpp.html" title="Engine/Renderer/RenderObject\l/RenderObjectManager.hpp" alt="" coords="1124,398,1327,439"/>
+<area shape="rect" id="node38" href="$IndexedObject_8hpp.html" title="Core/Index/IndexedObject.hpp" alt="" coords="1851,405,2049,432"/>
+<area shape="rect" id="node39" href="$Ray_8hpp.html" title="Core/Math/Ray.hpp" alt="" coords="2521,405,2656,432"/>
+<area shape="rect" id="node40" href="$Component_8inl.html" title="Engine/Component/Component.inl" alt="" coords="2124,405,2345,432"/>
+<area shape="rect" id="node42" href="$Singleton_8hpp.html" title="Core/Utils/Singleton.hpp" alt="" coords="702,587,865,613"/>
+<area shape="rect" id="node45" href="$RenderObjectTypes_8hpp.html" title="Engine/Renderer/RenderObject\l/RenderObjectTypes.hpp" alt="" coords="1551,489,1753,530"/>
+<area shape="rect" id="node46" href="$RenderTechnique_8hpp.html" title="Engine/Renderer/RenderTechnique\l/RenderTechnique.hpp" alt="" coords="1401,398,1625,439"/>
+<area shape="rect" id="node49" href="$IndexMap_8hpp.html" title="Core/Index/IndexMap.hpp" alt="" coords="1131,496,1303,523"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Ra::Core::Task" name="Ra::Core::Task">
+<area shape="rect" id="node2" href="$classDummyPlugin_1_1DummyOtherTask.html" title="{DummyPlugin::DummyOtherTask\n||+ getName()\l+ init()\l+ process()\l}" alt="" coords="5,168,224,275"/>
+<area shape="rect" id="node3" href="$classDummyPlugin_1_1DummyTask.html" title="{DummyPlugin::DummyTask\n||+ getName()\l+ init()\l+ process()\l}" alt="" coords="248,168,435,275"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1FunctionTask.html" title="{Ra::Core::FunctionTask\n|# m_f\l# m_name\l|+ FunctionTask()\l+ getName()\l+ process()\l}" alt="" coords="459,161,621,282"/>
+</map>

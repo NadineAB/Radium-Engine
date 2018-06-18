@@ -1,0 +1,4 @@
+<map id="AnimationPlugin::AnimationComponent::getTransform" name="AnimationPlugin::AnimationComponent::getTransform">
+<area shape="rect" id="node2" href="$classAnimationPlugin_1_1AnimationComponent.html#a4f5c1cd3b5cab8464b3d68090d281c0c" title="Returns true if a transform can be edited with the render object index given as a key..." alt="" coords="238,5,421,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#acb6381c3f288f580800589eb718c1759" title="Ra::Core::Animation\l::Skeleton::getPose" alt="" coords="259,70,400,111"/>
+</map>

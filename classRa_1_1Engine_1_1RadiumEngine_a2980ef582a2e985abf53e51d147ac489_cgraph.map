@@ -1,0 +1,5 @@
+<map id="Ra::Engine::RadiumEngine::cleanup" name="Ra::Engine::RadiumEngine::cleanup">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1BlinnPhongMaterial.html#ac811cdb36c687637bc210a5c32b95d51" title="Ra::Engine::BlinnPhongMaterial\l::unregisterMaterial" alt="" coords="235,38,442,79"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Engine_1_1EngineMaterialConverters.html#ac41449ebd949e8a7b1d93ff2a42acf92" title="Ra::Engine::EngineMaterial\lConverters::removeMaterialConverter" alt="" coords="492,5,732,46"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Engine_1_1EngineRenderTechniques.html#a6e2ce86d7ae1f3822819477bf5bd7c74" title="Ra::Engine::EngineRender\lTechniques::removeDefaultTechnique" alt="" coords="491,70,733,111"/>
+</map>

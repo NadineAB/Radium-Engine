@@ -1,0 +1,7 @@
+<map id="Ra::Engine::DebugRender::addFrame" name="Ra::Engine::DebugRender::addFrame">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1DebugRender.html#a35b2c4a2e8776d9465881c27f3dacdf8" title="Ra::Engine::DebugRender\l::addMesh" alt="" coords="234,5,409,46"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#a7f215b87c86b521179840ac2f4a4c4e3" title="Ra::Engine::DrawPrimitives\l::Frame" alt="" coords="229,70,413,111"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Colors.html#a5106b4a3ae9cf36ed9f57b733062346c" title="Ra::Core::Colors::Red" alt="" coords="467,27,621,53"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Colors.html#ac6dad1afb4fbb6af3fb605e380dfe34b" title="Ra::Core::Colors::Green" alt="" coords="462,77,626,104"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Colors.html#a749b34eb900efbaade04345f6eea99db" title="Ra::Core::Colors::Blue" alt="" coords="467,128,621,155"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Ra::Engine::Component::~Component" name="Ra::Engine::Component::~Component">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="236,5,399,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a95309666be383bc25eed4dad71d06310" title="Ra::Engine::RenderObject\lManager::removeRenderObject" alt="" coords="216,70,419,111"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1System.html#a509b1d1ca6c09f98d483f06a5db7737f" title="Ra::Engine::System\l::unregisterComponent" alt="" coords="240,187,395,229"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1Component.html#a207c1dc2e97856c22e0767fb77162933" title="Return the entity the component belongs to. " alt="" coords="473,131,636,173"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="467,66,642,107"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="691,73,853,100"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1Component.html#aa9416af3319ba92aa7b532952c75e477" title="Set the system to which the component belongs. " alt="" coords="473,197,636,238"/>
+</map>

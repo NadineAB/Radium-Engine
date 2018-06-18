@@ -1,0 +1,5 @@
+<map id="Ra::Engine::BlinnPhongMaterial::bind" name="Ra::Engine::BlinnPhongMaterial::bind">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1ShaderProgram.html#a5f7ae2880276f421c378810e3da65c4c" title="Ra::Engine::ShaderProgram\l::setUniform" alt="" coords="273,5,458,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1BlinnPhongMaterial.html#a4a7bbd9d6383e3efa88e27dfb70c0040" title="Ra::Engine::BlinnPhongMaterial\l::getTexture" alt="" coords="262,70,469,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Texture.html#a9ba7fb88d2b2b023ad5e68f2d4f3f1bb" title="Bind the texture to enable its use in a shader. " alt="" coords="296,135,435,177"/>
+</map>

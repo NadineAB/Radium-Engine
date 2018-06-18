@@ -1,0 +1,41 @@
+<map id="Ra::GuiBase::BaseApplication::BaseApplication" name="Ra::GuiBase::BaseApplication::BaseApplication">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1StringUtils.html#a63b10a7c14473b4aa762cf00e0432690" title="Ra::Core::StringUtils\l::stringPrintf" alt="" coords="301,38,445,79"/>
+<area shape="rect" id="node5" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a2578ea774df33aa24f0bf0ce684be0ed" title="Ra::GuiBase::BaseApplication\l::addBasicShaders" alt="" coords="274,135,473,177"/>
+<area shape="rect" id="node8" href="$classRa_1_1GuiBase_1_1BaseApplication_1_1WindowFactory.html#a696337774144e7c72871cda5f297eed3" title="Ra::GuiBase::BaseApplication\l::WindowFactory::createMainWindow" alt="" coords="253,207,493,249"/>
+<area shape="rect" id="node9" href="$classRa_1_1Gui_1_1Viewer.html#a6a060005e30fb85c91a93f25528e19eb" title="Ra::Gui::Viewer::getContext" alt="" coords="280,273,467,300"/>
+<area shape="rect" id="node10" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a0a57ff7454c9c6b5a116844438f6d55e" title="Create signal / slots connections. " alt="" coords="274,325,473,366"/>
+<area shape="rect" id="node16" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a6e2e0e0982bf3edeee66fd79ce5a76ae" title="Ra::GuiBase::BaseApplication\l::loadPlugins" alt="" coords="549,419,747,461"/>
+<area shape="rect" id="node27" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a2910421794de7e097bb41b17643e1d34" title="Ra::GuiBase::BaseApplication\l::setupScene" alt="" coords="274,839,473,881"/>
+<area shape="rect" id="node40" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a75ee465cd28befc501da69d40daffd90" title="Ra::GuiBase::BaseApplication\l::loadFile" alt="" coords="274,905,473,946"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1StringUtils.html#ac348328b878bb8f1b1c1a3335ea20c4b" title="Ra::Core::StringUtils\l::stringvPrintf" alt="" coords="576,5,720,46"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="864,12,971,39"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a8ffa1714a9e63a320acaa7873fb99797" title="Ra::Engine::ShaderConfiguration\l::addShader" alt="" coords="541,135,755,177"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a36842535508a390108fb1205210a5c49" title="Ra::Engine::ShaderConfiguration\lFactory::addConfiguration" alt="" coords="541,70,755,111"/>
+<area shape="rect" id="node11" href="$classRa_1_1GuiBase_1_1BaseApplication.html#aa19a984e0783e70237b8050feb1a3d2a" title="Ra::GuiBase::BaseApplication\l::appNeedsToQuit" alt="" coords="549,325,747,366"/>
+<area shape="rect" id="node12" href="$classRa_1_1GuiBase_1_1BaseApplication.html#a525be12318745eae6c4730dd7570c7bf" title="Ra::GuiBase::BaseApplication\l::initializeOpenGlPlugins" alt="" coords="549,201,747,242"/>
+<area shape="rect" id="node13" href="$classRa_1_1Gui_1_1Viewer.html#a17094c0201376a4beedb86fa39cf3fa2" title="Access to the feature picking manager. " alt="" coords="825,77,1009,118"/>
+<area shape="rect" id="node14" href="$classRa_1_1Gui_1_1Viewer.html#a19d9e6da9d196e77f7d4bf8fee5ad227" title="Ra::Gui::Viewer::makeCurrent" alt="" coords="818,143,1017,169"/>
+<area shape="rect" id="node15" href="$classRa_1_1Gui_1_1Viewer.html#aaf6cf957403cdcbfa8f4dfd0c25c8e74" title="Ra::Gui::Viewer::doneCurrent" alt="" coords="820,193,1015,220"/>
+<area shape="rect" id="node17" href="$namespaceRa_1_1Core_1_1StringUtils.html#a30480ab8fa5ba3ac2824bf91bcddf7bf" title="Ra::Core::StringUtils\l::getFileExt" alt="" coords="845,245,989,286"/>
+<area shape="rect" id="node18" href="$namespaceRa_1_1Core_1_1StringUtils.html#a385372757aef49b430a523e860df4def" title="Ra::Core::StringUtils\l::getBaseName" alt="" coords="845,310,989,351"/>
+<area shape="rect" id="node19" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#a89c442801ecfa6197ebf76b8b99d4249" title="Pass arguments for plugin initialization. This method is supposed to create the system (&lt;emph&gt;new&lt;/emph&gt; ..." alt="" coords="828,375,1007,417"/>
+<area shape="rect" id="node20" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#ad6ba57281f8237263a2c5e1b718a4689" title="Ra::Plugins::RadiumPlugin\lInterface::doAddRenderer" alt="" coords="828,441,1007,482"/>
+<area shape="rect" id="node21" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#a0abb07f37722a64372c5dce4b411cd7a" title="addRenderers " alt="" coords="828,506,1007,547"/>
+<area shape="rect" id="node22" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#acc10a0721a8fe34cc7e7735250b495c1" title="Ra::Plugins::RadiumPlugin\lInterface::doAddFileLoader" alt="" coords="828,571,1007,613"/>
+<area shape="rect" id="node23" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#afa17f1d9b08c2303fc36f9b51d5bb6a1" title="Ra::Plugins::RadiumPlugin\lInterface::addFileLoaders" alt="" coords="828,637,1007,678"/>
+<area shape="rect" id="node24" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#a6feecf052a9c12e6f85b07e3eaaf0a9a" title="Ra::Plugins::RadiumPlugin\lInterface::doAddROpenGLInitializer" alt="" coords="803,702,1031,743"/>
+<area shape="rect" id="node25" href="$classRa_1_1Gui_1_1Viewer.html#a74b52eef775a13bed0ada0c261dcc397" title="Ra::Gui::Viewer::isOpenGl\lInitialized" alt="" coords="829,767,1006,809"/>
+<area shape="rect" id="node26" href="$classRa_1_1Plugins_1_1RadiumPluginInterface.html#a2519ee59a10501de906398a08a57b6e2" title="openGlInitialize " alt="" coords="828,833,1007,874"/>
+<area shape="rect" id="node28" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#a70881604443264a7fceb751567eaa5b4" title="Ra::Engine::DrawPrimitives\l::Primitive" alt="" coords="556,997,740,1038"/>
+<area shape="rect" id="node33" href="$classRa_1_1Engine_1_1SystemEntity.html#a2b341d35802bc8d3e1b7a49833db9730" title="Access the UI Component. " alt="" coords="561,1159,735,1201"/>
+<area shape="rect" id="node36" href="$namespaceRa_1_1Engine_1_1DrawPrimitives.html#a4fdb84120e668a53e6d5056e59e9c29e" title="Ra::Engine::DrawPrimitives\l::Grid" alt="" coords="556,781,740,822"/>
+<area shape="rect" id="node37" href="$namespaceRa_1_1Core_1_1Colors.html#a9b6b3be86ee487b0a0e387566756b60d" title="Ra::Core::Colors::Grey" alt="" coords="569,847,727,873"/>
+<area shape="rect" id="node38" href="$classRa_1_1Engine_1_1Component.html#a8faa6f03b4a5a8bc30bb8ff402e6b61f" title="Add a new render object to the component. This adds the RO to the manager for drawing. " alt="" coords="567,898,729,939"/>
+<area shape="rect" id="node29" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a0bc60f21dbabd745961037f3d2f019c8" title="Ra::Engine::ShaderConfiguration\lFactory::getConfiguration" alt="" coords="811,1094,1024,1135"/>
+<area shape="rect" id="node31" href="$classRa_1_1Engine_1_1RenderObject.html#ae1ea453e2b698cda9956586d11b9cfbd" title="Ra::Engine::RenderObject\l::setRenderTechnique" alt="" coords="830,963,1005,1005"/>
+<area shape="rect" id="node32" href="$classRa_1_1Engine_1_1RenderObject.html#ae8e94954e783a2012fd774598af1eb52" title="Ra::Engine::RenderObject\l::setMesh" alt="" coords="830,1029,1005,1070"/>
+<area shape="rect" id="node30" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a7e20a600c78e8627f0238b342f4b42f2" title="Ra::Engine::ShaderConfiguration\l::getDefaultShaderConfig" alt="" coords="1080,1094,1293,1135"/>
+<area shape="rect" id="node34" href="$classRa_1_1Engine_1_1Entity.html#a2dbff361ff815b56c3b911fdcbb57da9" title="Ra::Engine::Entity\l::getTransformAsMatrix" alt="" coords="838,1225,997,1266"/>
+<area shape="rect" id="node35" href="$classRa_1_1Engine_1_1Entity.html#a524712805170bfce52ed0a98f7eee436" title="Get component with a given name. " alt="" coords="853,1159,982,1201"/>
+<area shape="rect" id="node39" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="836,898,999,939"/>
+</map>

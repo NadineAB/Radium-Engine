@@ -1,0 +1,16 @@
+<map id="SkinningPlugin::SkinningComponent::setSkinningType" name="SkinningPlugin::SkinningComponent::setSkinningType">
+<area shape="rect" id="node2" href="$classSkinningPlugin_1_1SkinningComponent.html#a0ba759710b12a03a59faca912566d328" title="SkinningPlugin::Skinning\lComponent::setupSkinningType" alt="" coords="248,214,456,255"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Animation.html#a40700cdabdd47fdb360f6bbfe692b36d" title="Compute the optimal center of rotations (1 per vertex) based on weight similarity. " alt="" coords="504,214,645,255"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core.html#a1992d0f90662705985222f69287915d0" title="Ra::Core::convert" alt="" coords="717,40,843,67"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="1115,113,1277,154"/>
+<area shape="rect" id="node8" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="915,91,1066,117"/>
+<area shape="rect" id="node9" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="1135,371,1257,397"/>
+<area shape="rect" id="node10" href="$namespaceRa_1_1Core_1_1DcelOperations.html#aaded34dd44fea8859e294864900a11ed" title="Ra::Core::DcelOperations\l::splitEdge" alt="" coords="693,243,867,285"/>
+<area shape="rect" id="node11" href="$namespaceRa_1_1Core_1_1MeshUtils.html#afbee0fe3203a295fb1f93b33dfb33f81" title="Fills the given array with the vertices of a given triangle. " alt="" coords="919,193,1062,234"/>
+<area shape="rect" id="node12" href="$namespaceRa_1_1Core_1_1MeshUtils.html#a746199d436bb1dc31c4bccb3953743b9" title="Returns the area of a given triangle. " alt="" coords="709,309,851,350"/>
+<area shape="rect" id="node15" href="$namespaceRa_1_1Core_1_1Animation.html#a71236244c5603a8a5bc63595db9b7717" title="Computes the similarity between two weights vector. " alt="" coords="709,426,851,467"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1TriangleMesh.html#a40d31b7b2943947d6eac5d906f0182fd" title="Ra::Core::TriangleMesh\l::normals" alt="" coords="1115,5,1277,46"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="1326,59,1490,101"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core_1_1Geometry.html#a178f2b7309fe2ea5bc31a3abcb25368e" title="Ra::Core::Geometry\l::triangleArea" alt="" coords="921,309,1061,350"/>
+<area shape="rect" id="node14" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="1133,316,1259,343"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="Ra::IO::AssimpLightDataLoader::loadLightData" name="Ra::IO::AssimpLightDataLoader::loadLightData">
+<area shape="rect" id="node2" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#ab0f34b3dd64a21b095cefa5ed7c67cc0" title="NAME. " alt="" coords="261,57,469,98"/>
+<area shape="rect" id="node5" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#a2ff03465fa3aa3c0f8045007f3951a4f" title="TYPE. " alt="" coords="261,122,469,163"/>
+<area shape="rect" id="node7" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#aa43eb33e9f3c7ff480285dc0256bd943" title="Ra::IO::AssimpLightDataLoader\l::loadLightFrame" alt="" coords="261,187,469,229"/>
+<area shape="rect" id="node8" href="$classRa_1_1Asset_1_1AssetData.html#a8b107d2673623febe173f37f14ff777d" title="Ra::Asset::AssetData\l::getName" alt="" coords="519,217,670,258"/>
+<area shape="rect" id="node9" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#ad1b8ceeba5c2acfe436f48549e75bac6" title="FRAME. " alt="" coords="261,305,469,346"/>
+<area shape="rect" id="node10" href="$classRa_1_1Asset_1_1LightData.html#a710ebcd57dabe8c947a2757d41e7ef0a" title="TYPE. " alt="" coords="293,370,438,411"/>
+<area shape="rect" id="node11" href="$classRa_1_1Asset_1_1LightData.html#ae92930b6fb8e392f9f20f287394af383" title="DATA. " alt="" coords="293,435,438,477"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="517,5,672,32"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1LightData.html#aa5b89669eba1ec7d862e234a3fef8e0c" title="NAME. " alt="" coords="522,57,667,98"/>
+<area shape="rect" id="node6" href="$classRa_1_1Asset_1_1LightData.html#a5a8cb6c5ced2c9359564b8b27348727c" title="Ra::Asset::LightData\l::setType" alt="" coords="522,122,667,163"/>
+</map>

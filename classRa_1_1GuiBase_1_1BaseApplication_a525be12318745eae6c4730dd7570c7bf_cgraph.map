@@ -1,0 +1,5 @@
+<map id="Ra::GuiBase::BaseApplication::initializeOpenGlPlugins" name="Ra::GuiBase::BaseApplication::initializeOpenGlPlugins">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1Viewer.html#a17094c0201376a4beedb86fa39cf3fa2" title="Access to the feature picking manager. " alt="" coords="261,5,445,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Gui_1_1Viewer.html#a19d9e6da9d196e77f7d4bf8fee5ad227" title="Ra::Gui::Viewer::makeCurrent" alt="" coords="254,71,453,97"/>
+<area shape="rect" id="node4" href="$classRa_1_1Gui_1_1Viewer.html#aaf6cf957403cdcbfa8f4dfd0c25c8e74" title="Ra::Gui::Viewer::doneCurrent" alt="" coords="256,121,451,148"/>
+</map>

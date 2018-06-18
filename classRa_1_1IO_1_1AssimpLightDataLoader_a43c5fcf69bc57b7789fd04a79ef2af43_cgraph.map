@@ -1,0 +1,15 @@
+<map id="Ra::IO::AssimpLightDataLoader::loadData" name="Ra::IO::AssimpLightDataLoader::loadData">
+<area shape="rect" id="node2" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#a964e3a64503d5f97ff4dea2e159cecf3" title="QUERY. " alt="" coords="261,115,469,157"/>
+<area shape="rect" id="node3" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#a1e010b161ed6c5bfc3b067b669fa8a7f" title="Ra::IO::AssimpLightDataLoader\l::sceneLightSize" alt="" coords="261,181,469,222"/>
+<area shape="rect" id="node4" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#a868cb11ca7a8d2e984d2829d37bbb6d3" title="LOADING. " alt="" coords="261,246,469,287"/>
+<area shape="rect" id="node5" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#ab0f34b3dd64a21b095cefa5ed7c67cc0" title="NAME. " alt="" coords="517,57,725,98"/>
+<area shape="rect" id="node8" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#a2ff03465fa3aa3c0f8045007f3951a4f" title="TYPE. " alt="" coords="517,122,725,163"/>
+<area shape="rect" id="node10" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#aa43eb33e9f3c7ff480285dc0256bd943" title="Ra::IO::AssimpLightDataLoader\l::loadLightFrame" alt="" coords="517,187,725,229"/>
+<area shape="rect" id="node11" href="$classRa_1_1Asset_1_1AssetData.html#a8b107d2673623febe173f37f14ff777d" title="Ra::Asset::AssetData\l::getName" alt="" coords="775,217,926,258"/>
+<area shape="rect" id="node12" href="$classRa_1_1IO_1_1AssimpLightDataLoader.html#ad1b8ceeba5c2acfe436f48549e75bac6" title="FRAME. " alt="" coords="517,305,725,346"/>
+<area shape="rect" id="node13" href="$classRa_1_1Asset_1_1LightData.html#a710ebcd57dabe8c947a2757d41e7ef0a" title="TYPE. " alt="" coords="549,370,694,411"/>
+<area shape="rect" id="node14" href="$classRa_1_1Asset_1_1LightData.html#ae92930b6fb8e392f9f20f287394af383" title="DATA. " alt="" coords="549,435,694,477"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="773,5,928,32"/>
+<area shape="rect" id="node7" href="$classRa_1_1Asset_1_1LightData.html#aa5b89669eba1ec7d862e234a3fef8e0c" title="NAME. " alt="" coords="778,57,923,98"/>
+<area shape="rect" id="node9" href="$classRa_1_1Asset_1_1LightData.html#a5a8cb6c5ced2c9359564b8b27348727c" title="Ra::Asset::LightData\l::setType" alt="" coords="778,122,923,163"/>
+</map>

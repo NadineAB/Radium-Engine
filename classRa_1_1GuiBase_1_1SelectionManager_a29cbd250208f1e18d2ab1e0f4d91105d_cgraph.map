@@ -1,0 +1,6 @@
+<map id="Ra::GuiBase::SelectionManager::currentItem" name="Ra::GuiBase::SelectionManager::currentItem">
+<area shape="rect" id="node2" href="$classRa_1_1GuiBase_1_1SelectionManager.html#aec178a6b3de1c04e5e1d16ff72c6e966" title="Ra::GuiBase::SelectionManager\l::itemModel" alt="" coords="265,5,474,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1GuiBase_1_1ItemModel.html#a3236433d461ad6cac5e9390b2685fa3f" title="Ra::GuiBase::ItemModel\l::getEntry" alt="" coords="286,70,453,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1GuiBase_1_1TreeModel.html#a5aa24ace72c1c3d29e268cb34dc576f2" title="Get the tree item corresponding to the given index. " alt="" coords="523,70,690,111"/>
+<area shape="rect" id="node5" href="$classRa_1_1GuiBase_1_1TreeModel.html#a972106921da4c960f23f81722d3b4cf5" title="Internal functions to check if an item is in the tree. " alt="" coords="739,70,906,111"/>
+</map>

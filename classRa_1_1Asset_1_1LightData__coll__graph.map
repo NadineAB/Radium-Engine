@@ -1,0 +1,6 @@
+<map id="Ra::Asset::LightData" name="Ra::Asset::LightData">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1AssetData.html" title="{Ra::Asset::AssetData\n||+ AssetData()\l+ ~AssetData()\l+ getName()\l}" alt="" coords="5,320,155,427"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="40,149,119,227"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="17,6,143,98"/>
+<area shape="rect" id="node11" href="$structRa_1_1Asset_1_1LightData_1_1LightAttenuation.html" title="{Ra::Asset::LightData\l::LightAttenuation\n||+ LightAttenuation()\l}" alt="" coords="802,327,947,419"/>
+</map>

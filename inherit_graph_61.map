@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximationBase.html" title="The VariationalShapeApproximationBase class. " alt="" coords="5,85,216,141"/>
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximation.html" title="The VariationalShapeApproximation class. " alt="" coords="272,5,483,61"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximation_3_01K__Region_00_01MetricType_1_1L21_01_4.html" title="This is a specialized version of the VSA for the L21 metric. " alt="" coords="272,85,483,141"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Geometry_1_1VariationalShapeApproximation_3_01K__Region_00_01MetricType_1_1LLOYD_01_4.html" title="This is a specialized version of the VSA for the L21 metric. " alt="" coords="264,165,491,221"/>
+</map>

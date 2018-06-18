@@ -1,0 +1,6 @@
+<map id="Ra::Engine::RenderObject::createRenderObject" name="Ra::Engine::RenderObject::createRenderObject">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1RenderObject.html#acf300c8fdb55fee54d27b3fb46a1e523" title="Ra::Engine::RenderObject\l::RenderObject" alt="" coords="230,5,405,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1RenderObject.html#ae8e94954e783a2012fd774598af1eb52" title="Ra::Engine::RenderObject\l::setMesh" alt="" coords="230,70,405,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1RenderObject.html#a62e0eb3a7de5a7d352b565a28260cc06" title="Ra::Engine::RenderObject\l::setVisible" alt="" coords="230,135,405,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1RenderObject.html#ae1ea453e2b698cda9956586d11b9cfbd" title="Ra::Engine::RenderObject\l::setRenderTechnique" alt="" coords="230,201,405,242"/>
+</map>

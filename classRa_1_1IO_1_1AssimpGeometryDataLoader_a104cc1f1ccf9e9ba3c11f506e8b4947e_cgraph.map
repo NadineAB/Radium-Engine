@@ -1,0 +1,6 @@
+<map id="Ra::IO::AssimpGeometryDataLoader::fetchNormals" name="Ra::IO::AssimpGeometryDataLoader::fetchNormals">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1GeometryData.html#a3b706a2f7490107865f20c4cb71c5777" title="Ra::Asset::GeometryData\l::getNormals" alt="" coords="254,5,429,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1GeometryData.html#ad31c0f120d5e88c40afefa79c29ae28a" title="DATA. " alt="" coords="254,70,429,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1GeometryData.html#ad917f1a50860ee72fa2aa8f0d557c8c5" title="DUPLICATES. " alt="" coords="254,135,429,177"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="264,201,419,228"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Ra::Engine::LightManager" name="Ra::Engine::LightManager">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1System.html" title="{Ra::Engine::System\n||+ System()\l+ ~System()\l+ generateTasks()\l+ registerComponent()\l+ unregisterComponent()\l+ unregisterAllComponents()\l+ getEntityComponents()\l+ handleAssetLoading()\l}" alt="" coords="133,730,320,910"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="186,199,301,276"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="327,199,467,276"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1RenderParameters.html" title="{Ra::Engine::RenderParameters\n||+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ addParameter()\l+ updateParameter()\l+ updateParameter()\l+ updateParameter()\l+ updateParameter()\l+ updateParameter()\l+ updateParameter()\l+ updateParameter()\l+ updateParameter()\l+ updateParameter()\l+ concatParameters()\l+ bind()\l+ print()\l}" alt="" coords="469,605,672,1035"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1LightStorage.html" title="{Ra::Engine::LightStorage\n||+ LightStorage()\l+ ~LightStorage()\l+ upload()\l+ size()\l+ add()\l+ remove()\l+ clear()\l+ operator[]()\l}" alt="" coords="521,147,689,327"/>
+<area shape="rect" id="node11" href="$structRa_1_1Engine_1_1RenderData.html" title="{Ra::Engine::RenderData\n||}" alt="" coords="697,781,861,859"/>
+</map>

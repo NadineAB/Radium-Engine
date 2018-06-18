@@ -1,0 +1,12 @@
+<map id="Ra::IO::TinyPlyFileLoader::loadFile" name="Ra::IO::TinyPlyFileLoader::loadFile">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1FileData.html#a0201d9bd6fb3db5a35a0c7436551bbeb" title="QUERY. " alt="" coords="245,5,384,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1FileData.html#ac84f529ecb4aeb7e2662dc1b7a245c4a" title="Ra::Asset::FileData\l::isVerbose" alt="" coords="245,70,384,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1GeometryData.html#a23f044c78e92cc740444a06ab9690e3b" title="Ra::Asset::GeometryData\l::setType" alt="" coords="227,135,402,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Asset_1_1GeometryData.html#acd345d462c9fae60303a6b8485333412" title="Ra::Asset::GeometryData\l::setVertices" alt="" coords="227,201,402,242"/>
+<area shape="rect" id="node7" href="$classRa_1_1Asset_1_1GeometryData.html#a2a5e7415fb32d5c1c2acbe7f99a95d07" title="Ra::Asset::GeometryData\l::setFrame" alt="" coords="227,266,402,307"/>
+<area shape="rect" id="node8" href="$classRa_1_1Asset_1_1GeometryData.html#aab9fbfb6b27090512800ac4adaa42330" title="Ra::Asset::GeometryData\l::setNormals" alt="" coords="227,331,402,373"/>
+<area shape="rect" id="node9" href="$classRa_1_1Asset_1_1GeometryData.html#a95c0912036e07581ba137fbaa4c5b501" title="Ra::Asset::GeometryData\l::setColors" alt="" coords="227,397,402,438"/>
+<area shape="rect" id="node10" href="$classRa_1_1Asset_1_1GeometryData.html#af2d7848b5ec9c051cb9c213e8b103665" title="Ra::Asset::GeometryData\l::getColors" alt="" coords="227,462,402,503"/>
+<area shape="rect" id="node11" href="$classRa_1_1Asset_1_1FileData.html#a48ed7c01ec6ccc1cdacda01524b9c8fd" title="Ra::Asset::FileData\l::displayInfo" alt="" coords="245,527,384,569"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="451,339,557,365"/>
+</map>

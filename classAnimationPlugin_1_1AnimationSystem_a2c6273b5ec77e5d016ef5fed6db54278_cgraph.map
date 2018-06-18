@@ -1,0 +1,9 @@
+<map id="AnimationPlugin::AnimationSystem::generateTasks" name="AnimationPlugin::AnimationSystem::generateTasks">
+<area shape="rect" id="node2" href="$classAnimationPlugin_1_1AnimationComponent.html#ac6cde244dc1afc3eed570c0ef678de2b" title="Update the skeleton with an animation. " alt="" coords="238,63,421,105"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1TaskQueue.html#a9dfa226458ca9f60b19d54277583977a" title="Ra::Core::TaskQueue\l::registerTask" alt="" coords="254,129,405,170"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a7aec08b57bfa9dbce1c5b47e96de81d9" title="Ra::Core::Animation\l::Skeleton::setPose" alt="" coords="485,63,627,105"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a5679e1beb544b515c4539ce48a2f2ba3" title="Ra::Core::Animation\l::Skeleton::size" alt="" coords="713,5,855,46"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a63e089f5da2ddc2da39dfd5bd6adb410" title="SIZE. " alt="" coords="925,93,1112,134"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1Graph_1_1AdjacencyList.html#a8671f51516bd82a2ea4246bc0c1e34f1" title="Ra::Core::Graph::Adjacency\lList::isRoot" alt="" coords="691,122,877,163"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1Task.html#a6c1ba13f4d8a2965f8b0b371c83efb69" title="Return the name of the task. " alt="" coords="469,136,643,163"/>
+</map>

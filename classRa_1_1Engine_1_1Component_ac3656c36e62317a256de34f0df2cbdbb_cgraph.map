@@ -1,0 +1,6 @@
+<map id="Ra::Engine::Component::removeRenderObject" name="Ra::Engine::Component::removeRenderObject">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="236,5,399,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a95309666be383bc25eed4dad71d06310" title="Ra::Engine::RenderObject\lManager::removeRenderObject" alt="" coords="216,70,419,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="467,70,642,111"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="691,77,853,104"/>
+</map>

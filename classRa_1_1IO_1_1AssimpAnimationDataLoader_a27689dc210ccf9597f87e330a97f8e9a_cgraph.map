@@ -1,0 +1,7 @@
+<map id="Ra::IO::AssimpAnimationDataLoader::fetchTime" name="Ra::IO::AssimpAnimationDataLoader::fetchTime">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1AnimationTime.html#a3d66a6bbd2d5bbcc7e69326bd00c820a" title="Ra::Asset::AnimationTime\l::setStart" alt="" coords="253,5,429,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1AnimationTime.html#a99e02d1a87c8a6b61d1826592e191e50" title="Ra::Asset::AnimationTime\l::setEnd" alt="" coords="253,70,429,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1AnimationData.html#ada0a04150c4c9051261d95fcad8b78db" title="Ra::Asset::AnimationData\l::setTime" alt="" coords="254,135,429,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Asset_1_1AnimationData.html#a7a56f036e3a6b2a7db50ae0bd3a0fb32" title="Ra::Asset::AnimationData\l::setTimeStep" alt="" coords="254,201,429,242"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Algorithm.html#abebfe08bb2303204bea2baea8195439d" title="Ra::Core::Algorithm\l::delta" alt="" coords="477,201,616,242"/>
+</map>

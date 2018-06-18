@@ -1,0 +1,5 @@
+<map id="Ra::Core::DualQuaternion::transform" name="Ra::Core::DualQuaternion::transform">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Math.html#af36b0dc40414af4cc329f037d428dada" title="Returns true if |a &#45;b| &lt; eps. " alt="" coords="448,28,627,69"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1DualQuaternion.html#ac7b44ebcec6435ede7183b59585e61bf" title="Apply only the translational part of the dual quaternion to the given vector. " alt="" coords="227,24,400,65"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1DualQuaternion.html#adeb06a28fea639484f58da9a8a9ef217" title="Apply only the rotational part of the dual quaternion to the given vector. " alt="" coords="227,89,400,131"/>
+</map>

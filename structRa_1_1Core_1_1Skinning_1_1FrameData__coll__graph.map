@@ -1,0 +1,13 @@
+<map id="Ra::Core::Skinning::FrameData" name="Ra::Core::Skinning::FrameData">
+<area shape="rect" id="node2" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Transform \&gt;\n||}" alt="" coords="5,566,189,658"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="17,264,180,371"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="176,147,347,239"/>
+<area shape="rect" id="node11" title="STL class. " alt="" coords="363,395,527,501"/>
+<area shape="rect" id="node14" title="STL class. " alt="" coords="469,271,640,363"/>
+<area shape="rect" id="node5" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\&lt; T \&gt;\n||}" alt="" coords="123,409,339,487"/>
+<area shape="rect" id="node10" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Vector3 \&gt;\n||}" alt="" coords="236,566,420,658"/>
+<area shape="rect" id="node13" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\&lt; V \&gt;\n||}" alt="" coords="445,573,661,651"/>
+<area shape="rect" id="node8" href="$classbool.html" title="{bool\n||}" alt="" coords="271,924,317,1001"/>
+<area shape="rect" id="node9" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\l\&lt; Vector3 \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="343,909,495,1016"/>
+<area shape="rect" id="node12" href="$classRa_1_1Core_1_1VectorArray.html" title="{Ra::Core::VectorArray\&lt; V \&gt;\n||+ getMap()\l+ getMap()\l}" alt="" coords="425,710,609,802"/>
+</map>

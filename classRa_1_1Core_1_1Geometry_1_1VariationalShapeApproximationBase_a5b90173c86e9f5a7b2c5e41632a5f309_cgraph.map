@@ -1,0 +1,10 @@
+<map id="Ra::Core::Geometry::VariationalShapeApproximationBase::compute_data" name="Ra::Core::Geometry::VariationalShapeApproximationBase::compute_data">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="287,5,393,32"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="265,56,415,83"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Geometry.html#ad0460aa2e5611fa18161c285cfd6237e" title="Ra::Core::Geometry\l::triangleBarycenter" alt="" coords="270,107,410,149"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Geometry.html#a2ce97206423345716bf1b55f60c1c227" title="Ra::Core::Geometry\l::triangleNormal" alt="" coords="270,173,410,214"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Geometry.html#a178f2b7309fe2ea5bc31a3abcb25368e" title="Ra::Core::Geometry\l::triangleArea" alt="" coords="270,238,410,279"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core.html#af6bcd3f2b48d9770b18ec88249e607bc" title="LIST. " alt="" coords="290,304,390,331"/>
+<area shape="rect" id="node6" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="464,188,589,215"/>
+<area shape="rect" id="node8" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="465,245,588,272"/>
+</map>

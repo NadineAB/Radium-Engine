@@ -1,0 +1,8 @@
+<map id="Ra::Core::MeshUtils::getTriangleArea" name="Ra::Core::MeshUtils::getTriangleArea">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1MeshUtils.html#afbee0fe3203a295fb1f93b33dfb33f81" title="Fills the given array with the vertices of a given triangle. " alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1Core_1_1Geometry.html#a178f2b7309fe2ea5bc31a3abcb25368e" title="Ra::Core::Geometry\l::triangleArea" alt="" coords="199,70,339,111"/>
+<area shape="rect" id="node3" href="$classRa_1_1Core_1_1TriangleMesh.html#a495116f40cfec8bb6504698d786d4b8c" title="Ra::Core::TriangleMesh\l::vertices" alt="" coords="390,5,551,46"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1AttribManager.html#a2344159a1926da905e4c44cd95744d59" title="Get attribute by handle. " alt="" coords="601,5,765,46"/>
+<area shape="rect" id="node6" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="408,73,533,100"/>
+<area shape="rect" id="node7" href="$namespaceOpenMesh.html#a8205f789ce08919bc11c58383574596c" title="OpenMesh::norm" alt="" coords="409,124,532,151"/>
+</map>

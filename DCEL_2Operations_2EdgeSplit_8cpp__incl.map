@@ -1,0 +1,25 @@
+<map id="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/Mesh/DCEL/Operations/EdgeSplit.cpp" name="/home/travis/build/STORM&#45;IRIT/Radium&#45;Engine/src/Core/Mesh/DCEL/Operations/EdgeSplit.cpp">
+<area shape="rect" id="node2" href="$FullEdge_8hpp.html" title="Core/Mesh/DCEL/FullEdge.hpp" alt="" coords="1405,125,1611,152"/>
+<area shape="rect" id="node20" href="$DCEL_2HalfEdge_8hpp.html" title="Core/Mesh/DCEL/HalfEdge.hpp" alt="" coords="1206,424,1415,451"/>
+<area shape="rect" id="node22" href="$Vertex_8hpp.html" title="Core/Mesh/DCEL/Vertex.hpp" alt="" coords="1270,275,1463,301"/>
+<area shape="rect" id="node35" href="$DCEL_2Operations_2EdgeSplit_8hpp.html" title="Core/Mesh/DCEL/Operations\l/EdgeSplit.hpp" alt="" coords="1882,499,2075,541"/>
+<area shape="rect" id="node3" href="$Index_8hpp.html" title="Core/Index/Index.hpp" alt="" coords="1217,755,1364,781"/>
+<area shape="rect" id="node6" href="$IndexedObject_8hpp.html" title="Core/Index/IndexedObject.hpp" alt="" coords="1499,672,1697,699"/>
+<area shape="rect" id="node14" href="$Definition_8hpp.html" title="Core/Mesh/DCEL/Definition.hpp" alt="" coords="1721,672,1931,699"/>
+<area shape="rect" id="node17" href="$FullEdge_8inl.html" title="Core/Mesh/DCEL/FullEdge.inl" alt="" coords="1409,200,1607,227"/>
+<area shape="rect" id="node5" href="$Index_8inl.html" title="Core/Index/Index.inl" alt="" coords="1281,829,1420,856"/>
+<area shape="rect" id="node7" href="$RaCore_8hpp.html" title="Core/RaCore.hpp" alt="" coords="1537,755,1660,781"/>
+<area shape="rect" id="node8" href="$CoreMacros_8hpp.html" title="Core/CoreMacros.hpp" alt="" coords="1523,829,1673,856"/>
+<area shape="rect" id="node18" href="$Face_8hpp.html" title="Core/Mesh/DCEL/Face.hpp" alt="" coords="1313,589,1497,616"/>
+<area shape="rect" id="node19" href="$Face_8inl.html" title="Core/Mesh/DCEL/Face.inl" alt="" coords="1249,672,1425,699"/>
+<area shape="rect" id="node21" href="$DCEL_2HalfEdge_8inl.html" title="Core/Mesh/DCEL/HalfEdge.inl" alt="" coords="1351,507,1552,533"/>
+<area shape="rect" id="node23" href="$LinearAlgebra_8hpp.html" title="Core/Math/LinearAlgebra.hpp" alt="" coords="635,589,825,616"/>
+<area shape="rect" id="node34" href="$Vertex_8inl.html" title="Core/Mesh/DCEL/Vertex.inl" alt="" coords="1230,349,1415,376"/>
+<area shape="rect" id="node29" href="$Math_8hpp.html" title="Core/Math/Math.hpp" alt="" coords="169,672,309,699"/>
+<area shape="rect" id="node33" href="$LinearAlgebra_8inl.html" title="Core/Math/LinearAlgebra.inl" alt="" coords="639,672,821,699"/>
+<area shape="rect" id="node32" href="$Math_8inl.html" title="Core/Math/Math.inl" alt="" coords="173,755,307,781"/>
+<area shape="rect" id="node36" href="$Dcel_8hpp.html" title="Core/Mesh/DCEL/Dcel.hpp" alt="" coords="2007,589,2189,616"/>
+<area shape="rect" id="node37" href="$IndexMap_8hpp.html" title="Core/Index/IndexMap.hpp" alt="" coords="2258,672,2429,699"/>
+<area shape="rect" id="node41" href="$Dcel_8inl.html" title="Core/Mesh/DCEL/Dcel.inl" alt="" coords="2007,672,2181,699"/>
+<area shape="rect" id="node40" href="$IndexMap_8inl.html" title="Core/Index/IndexMap.inl" alt="" coords="2191,755,2355,781"/>
+</map>

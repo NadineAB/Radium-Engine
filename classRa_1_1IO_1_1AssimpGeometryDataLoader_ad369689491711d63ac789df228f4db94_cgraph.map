@@ -1,0 +1,8 @@
+<map id="Ra::IO::AssimpGeometryDataLoader::fetchVertices" name="Ra::IO::AssimpGeometryDataLoader::fetchVertices">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="288,5,395,32"/>
+<area shape="rect" id="node3" href="$classRa_1_1Asset_1_1GeometryData.html#a20394106458e5e8deade13af0bec3ebb" title="Ra::Asset::GeometryData\l::getVertices" alt="" coords="254,57,429,98"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1GeometryData.html#ad917f1a50860ee72fa2aa8f0d557c8c5" title="DUPLICATES. " alt="" coords="254,122,429,163"/>
+<area shape="rect" id="node5" href="$namespaceRa_1_1IO.html#aef6c50424873964fcea0008be55d4a34" title="Ra::IO::assimpToCore" alt="" coords="264,188,419,215"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="266,239,417,265"/>
+<area shape="rect" id="node7" href="$classRa_1_1Asset_1_1GeometryData.html#ae7f137aae9b6723ff6b0fc7125b0fd35" title="Ra::Asset::GeometryData\l::isLoadingDuplicates" alt="" coords="254,290,429,331"/>
+</map>

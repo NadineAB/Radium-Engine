@@ -1,0 +1,4 @@
+<map id="Ra::Asset::FileLoaderInterface" name="Ra::Asset::FileLoaderInterface">
+<area shape="rect" id="node2" href="$classRa_1_1IO_1_1AssimpFileLoader.html" title="This class loads scenes containing MESHES only (not point&#45;clouds) " alt="" coords="5,190,179,341"/>
+<area shape="rect" id="node3" href="$classRa_1_1IO_1_1TinyPlyFileLoader.html" title="{Ra::IO::TinyPlyFileLoader\n||+ TinyPlyFileLoader()\l+ ~TinyPlyFileLoader()\l+ getFileExtensions()\l+ handleFileExtension()\l+ loadFile()\l+ name()\l}" alt="" coords="203,190,376,341"/>
+</map>

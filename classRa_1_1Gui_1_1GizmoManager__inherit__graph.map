@@ -1,0 +1,4 @@
+<map id="Ra::Gui::GizmoManager" name="Ra::Gui::GizmoManager">
+<area shape="rect" id="node2" href="$classQObject.html" title="{QObject\n||}" alt="" coords="5,64,75,141"/>
+<area shape="rect" id="node3" href="$classRa_1_1GuiBase_1_1TransformEditor.html" title="{Ra::GuiBase::TransformEditor\n|# m_transform\l# m_currentEdit\l|+ TransformEditor()\l+ ~TransformEditor()\l+ setEditable()\l+ updateValues()\l# getTransform()\l# setTransform()\l# canEdit()\l# getWorldTransform()\l}" alt="" coords="99,5,297,200"/>
+</map>

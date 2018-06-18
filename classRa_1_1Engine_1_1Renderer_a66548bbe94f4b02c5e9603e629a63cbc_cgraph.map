@@ -1,0 +1,6 @@
+<map id="Ra::Engine::Renderer::grabFrame" name="Ra::Engine::Renderer::grabFrame">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Renderer.html#a8a68ecdea83da2148ef303176bcffac8" title="Ra::Engine::Renderer\l::getDisplayTexture" alt="" coords="203,5,351,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Texture.html#a9ba7fb88d2b2b023ad5e68f2d4f3f1bb" title="Bind the texture to enable its use in a shader. " alt="" coords="208,70,347,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Texture.html#adc28882e4e1e8b854336f58634a7746e" title="Ra::Engine::Texture\l::width" alt="" coords="208,135,347,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Texture.html#a0eb28dd874e89453b510ec01d4d9b629" title="Ra::Engine::Texture\l::height" alt="" coords="208,201,347,242"/>
+</map>

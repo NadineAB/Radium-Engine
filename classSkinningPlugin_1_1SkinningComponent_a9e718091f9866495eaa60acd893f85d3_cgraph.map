@@ -1,0 +1,6 @@
+<map id="SkinningPlugin::SkinningComponent::setupIO" name="SkinningPlugin::SkinningComponent::setupIO">
+<area shape="rect" id="node2" href="$classSkinningPlugin_1_1SkinningComponent.html#a968369707e20f8a760e1d43bcf81d1c1" title="SkinningPlugin::Skinning\lComponent::getDQ" alt="" coords="229,5,395,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Component.html#a207c1dc2e97856c22e0767fb77162933" title="Return the entity the component belongs to. " alt="" coords="231,70,393,111"/>
+<area shape="rect" id="node4" href="$classSkinningPlugin_1_1SkinningComponent.html#ae73fc5717f48e55dbe1114a3c14511bc" title="SkinningPlugin::Skinning\lComponent::getRefData" alt="" coords="229,135,395,177"/>
+<area shape="rect" id="node5" href="$classSkinningPlugin_1_1SkinningComponent.html#ad64d06dc345a2dae7a48f5f2a9bbbac7" title="SkinningPlugin::Skinning\lComponent::getFrameData" alt="" coords="222,201,402,242"/>
+</map>

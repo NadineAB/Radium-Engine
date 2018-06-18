@@ -1,0 +1,5 @@
+<map id="Ra::Engine::BlinnPhongMaterial::updateGL" name="Ra::Engine::BlinnPhongMaterial::updateGL">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1BlinnPhongMaterial.html#a427cfdf1838a26e61cc8f19f5b775e21" title="Ra::Engine::BlinnPhongMaterial\l::addTexture" alt="" coords="262,5,469,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1TextureManager.html#a46ca84849d2b797ad9f489b51fa90a32" title="Ra::Engine::TextureManager\l::getOrLoadTexture" alt="" coords="271,70,460,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1Texture.html#a0153c435e24e1df4090c02f262981374" title="Init the texture 1D from OpenGL point of view. " alt="" coords="517,70,656,111"/>
+</map>

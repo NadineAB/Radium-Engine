@@ -1,0 +1,7 @@
+<map id="RaTests::TestManager" name="RaTests::TestManager">
+<area shape="rect" id="node3" href="$structRaTests_1_1TestManager_1_1TestEntry.html" title="One test instance and the number of times it has failed. " alt="" coords="41,177,196,269"/>
+<area shape="rect" id="node4" href="$classRaTests_1_1Test.html" title="Base class for all tests. " alt="" coords="5,5,112,112"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="221,184,336,261"/>
+<area shape="rect" id="node8" href="$structRaTests_1_1TestManager_1_1Options.html" title="Options regarding the test behavior. " alt="" coords="371,347,527,439"/>
+<area shape="rect" id="node9" href="$classbool.html" title="{bool\n||}" alt="" coords="426,184,472,261"/>
+</map>

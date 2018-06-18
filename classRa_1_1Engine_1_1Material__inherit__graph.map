@@ -1,0 +1,3 @@
+<map id="Ra::Engine::Material" name="Ra::Engine::Material">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1BlinnPhongMaterial.html" title="{Ra::Engine::BlinnPhongMaterial\n|+ m_kd\l+ m_ks\l+ m_ns\l+ m_alpha\l|+ BlinnPhongMaterial()\l+ ~BlinnPhongMaterial()\l+ getShaderInclude()\l+ updateGL()\l+ bind()\l+ isTransparent()\l+ addTexture()\l+ getTexture()\l+ addTexture()\l+ registerMaterial()\l+ unregisterMaterial()\l}" alt="" coords="5,278,211,546"/>
+</map>

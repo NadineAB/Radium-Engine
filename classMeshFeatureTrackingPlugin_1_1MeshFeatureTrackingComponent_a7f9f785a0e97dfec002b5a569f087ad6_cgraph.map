@@ -1,0 +1,14 @@
+<map id="MeshFeatureTrackingPlugin::MeshFeatureTrackingComponent::update" name="MeshFeatureTrackingPlugin::MeshFeatureTrackingComponent::update">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="557,19,720,61"/>
+<area shape="rect" id="node3" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#ae7f3f822c5cd05548c11d92b3ef98931" title="Registers the new center for the sphere. " alt="" coords="278,201,501,257"/>
+<area shape="rect" id="node5" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a070c4cf514a05514998983ef9ea8333c" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::getFeaturePosition" alt="" coords="278,121,501,177"/>
+<area shape="rect" id="node10" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a66ff6e44bfadaa9cb0b5a3f2c09e205e" title="Registers the new scale for the sphere. " alt="" coords="278,281,501,337"/>
+<area shape="rect" id="node12" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#ab8cb3c199c646746382ee3b5f9a76565" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::getFeatureScale" alt="" coords="278,41,501,97"/>
+<area shape="rect" id="node13" href="$classRa_1_1Engine_1_1RenderObject.html#a62e0eb3a7de5a7d352b565a28260cc06" title="Ra::Engine::RenderObject\l::setVisible" alt="" coords="302,361,477,402"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1RenderObject.html#a2d6a1bc2b7646fe0912035a2ece24864" title="Ra::Engine::RenderObject\l::setLocalTransform" alt="" coords="551,217,726,258"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a32bd0db0d9620bb7e3f0fe50b541dae3" title="Ra::Engine::RenderObject\lManager::getRenderObject" alt="" coords="549,85,728,126"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Core.html#af4d19e3d7e24ba7cf24654cee06474b7" title="POINT. " alt="" coords="593,151,685,177"/>
+<area shape="rect" id="node7" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="777,85,951,126"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="1000,92,1163,119"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1RenderObject.html#af6b3614bed03854e25328b143343fe1e" title="Ra::Engine::RenderObject\l::getLocalTransform" alt="" coords="551,289,726,330"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="AnimationPlugin::AnimationSystem::handleAssetLoading" name="AnimationPlugin::AnimationSystem::handleAssetLoading">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1FileData.html#a067251ed4ac8d221a1bc373ea7a4b158" title="DATA. " alt="" coords="296,141,435,182"/>
+<area shape="rect" id="node4" href="$classRa_1_1Asset_1_1FileData.html#ac709c4000bd91796eea12d4899d93283" title="Ra::Asset::FileData\l::getHandleData" alt="" coords="296,213,435,254"/>
+<area shape="rect" id="node5" href="$classRa_1_1Asset_1_1FileData.html#a4ff19e44385ab0599eb85f9ae1df2784" title="Ra::Asset::FileData\l::getAnimationData" alt="" coords="296,290,435,331"/>
+<area shape="rect" id="node6" href="$classAnimationPlugin_1_1AnimationComponent.html#a6c2e655619c45bd330f1f067e5171073" title="AnimationPlugin::Animation\lComponent::handleSkeletonLoading" alt="" coords="250,381,481,422"/>
+<area shape="rect" id="node23" href="$classAnimationPlugin_1_1AnimationComponent.html#a8b3fbfe4fe80927aaa590022322b3604" title="AnimationPlugin::Animation\lComponent::handleAnimationLoading" alt="" coords="246,791,485,833"/>
+<area shape="rect" id="node29" href="$classAnimationPlugin_1_1AnimationComponent.html#a959e3354a565e16f625ed9438d5fafdf" title="AnimationPlugin::Animation\lComponent::setXray" alt="" coords="274,857,457,898"/>
+<area shape="rect" id="node30" href="$classRa_1_1Engine_1_1System.html#ad7b2a746c42f08a729b4df9b991293a8" title="Ra::Engine::System\l::registerComponent" alt="" coords="295,599,435,641"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core.html#af6bcd3f2b48d9770b18ec88249e607bc" title="LIST. " alt="" coords="575,145,675,172"/>
+<area shape="rect" id="node7" href="$classRa_1_1Asset_1_1AssetData.html#a8b107d2673623febe173f37f14ff777d" title="Ra::Asset::AssetData\l::getName" alt="" coords="550,446,701,487"/>
+<area shape="rect" id="node8" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#ae8dab79a9d571d2a876ec9aaeb36959c" title="Ra::Core::Animation\l::Handle::setName" alt="" coords="555,511,696,553"/>
+<area shape="rect" id="node9" href="$namespaceRa_1_1Asset.html#a6af505cc4650dadb43465972bf52117d" title="Ra::Asset::createSkeleton" alt="" coords="537,196,713,223"/>
+<area shape="rect" id="node14" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#acb6381c3f288f580800589eb718c1759" title="Ra::Core::Animation\l::Skeleton::getPose" alt="" coords="555,315,696,357"/>
+<area shape="rect" id="node15" href="$classAnimationPlugin_1_1AnimationComponent.html#a251513eec1518af149974a0f1993933d" title="AnimationPlugin::Animation\lComponent::setupIO" alt="" coords="534,381,717,422"/>
+<area shape="rect" id="node10" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="815,5,921,32"/>
+<area shape="rect" id="node11" href="$classRa_1_1Asset_1_1HandleData.html#aac2741c32466647b58b76e8310d90ecb" title="DATA. " alt="" coords="783,57,953,98"/>
+<area shape="rect" id="node12" href="$classRa_1_1Asset_1_1HandleData.html#adeb89ae26f34f0878a089ed7ecd64e24" title="Ra::Asset::HandleData\l::getComponentData" alt="" coords="789,122,947,163"/>
+<area shape="rect" id="node13" href="$classRa_1_1Asset_1_1HandleData.html#abc56131631200e94ff38cf9e2af920bc" title="Ra::Asset::HandleData\l::getEdgeData" alt="" coords="789,187,947,229"/>
+<area shape="rect" id="node16" href="$classAnimationPlugin_1_1AnimationComponent.html#a39fe3e23030621e4f50f42478193ad00" title="AnimationPlugin::Animation\lComponent::getSkeletonOutput" alt="" coords="765,253,971,294"/>
+<area shape="rect" id="node17" href="$classRa_1_1Engine_1_1Component.html#a207c1dc2e97856c22e0767fb77162933" title="Return the entity the component belongs to. " alt="" coords="787,645,949,686"/>
+<area shape="rect" id="node18" href="$classAnimationPlugin_1_1AnimationComponent.html#a878356cef90f1de7b383b02be973d561" title="AnimationPlugin::Animation\lComponent::getRefPoseOutput" alt="" coords="765,318,971,359"/>
+<area shape="rect" id="node19" href="$classAnimationPlugin_1_1AnimationComponent.html#a903f653764d3e90fc10e499948dea1e0" title="AnimationPlugin::Animation\lComponent::getWeightsOutput" alt="" coords="767,383,969,425"/>
+<area shape="rect" id="node20" href="$classAnimationPlugin_1_1AnimationComponent.html#a1bc2edd80668f7421ecaec99a22fa1bf" title="AnimationPlugin::Animation\lComponent::getWasReset" alt="" coords="777,449,959,490"/>
+<area shape="rect" id="node21" href="$classAnimationPlugin_1_1AnimationComponent.html#adb46f8233101fbeb83d9b1234efbf770" title="AnimationPlugin::Animation\lComponent::getAnimation" alt="" coords="777,514,959,555"/>
+<area shape="rect" id="node22" href="$classAnimationPlugin_1_1AnimationComponent.html#ad2c3fe9ef62806d8b721c7daadbd0460" title="AnimationPlugin::Animation\lComponent::getTimeOutput" alt="" coords="777,579,959,621"/>
+<area shape="rect" id="node24" href="$classRa_1_1Core_1_1Animation_1_1Skeleton.html#a5679e1beb544b515c4539ce48a2f2ba3" title="Ra::Core::Animation\l::Skeleton::size" alt="" coords="555,825,696,866"/>
+<area shape="rect" id="node25" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#af2c003e7a85469470d5591b019e8ab80" title="Ra::Core::Animation\l::Handle::getLabel" alt="" coords="555,890,696,931"/>
+<area shape="rect" id="node27" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="550,956,701,983"/>
+<area shape="rect" id="node28" href="$classRa_1_1Asset_1_1KeyFrame.html#aea56e20481b32c5a81ff6d9eb34f9e97" title="Ra::Asset::KeyFrame\l::insertKeyFrame" alt="" coords="551,759,700,801"/>
+<area shape="rect" id="node26" href="$classRa_1_1Core_1_1Animation_1_1Handle.html#aba876355658e5f8953033d3bb8f18533" title="Ra::Core::Animation\l::Handle::size" alt="" coords="797,890,939,931"/>
+<area shape="rect" id="node31" href="$classRa_1_1Engine_1_1Component.html#aa3e5cb90432a9a49e4362b673652ff76" title="Return the component&#39;s name. " alt="" coords="544,694,707,735"/>
+<area shape="rect" id="node32" href="$classRa_1_1Engine_1_1Component.html#aa9416af3319ba92aa7b532952c75e477" title="Set the system to which the component belongs. " alt="" coords="544,629,707,670"/>
+</map>

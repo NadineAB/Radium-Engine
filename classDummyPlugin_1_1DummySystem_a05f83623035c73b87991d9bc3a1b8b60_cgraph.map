@@ -1,0 +1,7 @@
+<map id="DummyPlugin::DummySystem::generateTasks" name="DummyPlugin::DummySystem::generateTasks">
+<area shape="rect" id="node2" href="$classDummyPlugin_1_1DummyTask.html#a4f533b1b620145c6b3d12063cf4c89bb" title="DummyPlugin::DummyTask\l::init" alt="" coords="272,5,459,46"/>
+<area shape="rect" id="node3" href="$classDummyPlugin_1_1DummyOtherTask.html#a528fcb58a2a00d1430a3f94e563838d2" title="DummyPlugin::DummyOtherTask\l::init" alt="" coords="256,70,475,111"/>
+<area shape="rect" id="node4" href="$classRa_1_1Core_1_1TaskQueue.html#a9dfa226458ca9f60b19d54277583977a" title="Ra::Core::TaskQueue\l::registerTask" alt="" coords="290,135,441,177"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1TaskQueue.html#ab15b59009ff7bd766871ac66e01c3210" title="Ra::Core::TaskQueue\l::addDependency" alt="" coords="290,201,441,242"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Task.html#a6c1ba13f4d8a2965f8b0b371c83efb69" title="Return the name of the task. " alt="" coords="523,143,696,169"/>
+</map>

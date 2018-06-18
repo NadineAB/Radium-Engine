@@ -1,0 +1,7 @@
+<map id="MeshPaintPlugin::MeshPaintComponent::paintMesh" name="MeshPaintPlugin::MeshPaintComponent::paintMesh">
+<area shape="rect" id="node2" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="253,5,416,46"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a32bd0db0d9620bb7e3f0fe50b541dae3" title="Ra::Engine::RenderObject\lManager::getRenderObject" alt="" coords="245,70,424,111"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="259,136,410,163"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="473,70,647,111"/>
+<area shape="rect" id="node5" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="696,77,859,104"/>
+</map>

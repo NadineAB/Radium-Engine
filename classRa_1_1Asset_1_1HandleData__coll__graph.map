@@ -1,0 +1,15 @@
+<map id="Ra::Asset::HandleData" name="Ra::Asset::HandleData">
+<area shape="rect" id="node2" href="$classRa_1_1Asset_1_1AssetData.html" title="{Ra::Asset::AssetData\n||+ AssetData()\l+ ~AssetData()\l+ getName()\l}" alt="" coords="5,565,155,672"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="73,411,152,488"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="50,147,176,239"/>
+<area shape="rect" id="node5" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::VectorNi \&gt;\n||}" alt="" coords="625,573,809,665"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="637,272,837,379"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="777,147,948,239"/>
+<area shape="rect" id="node12" title="STL class. " alt="" coords="283,411,405,488"/>
+<area shape="rect" id="node15" title="STL class. " alt="" coords="893,272,1091,379"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="368,265,628,386"/>
+<area shape="rect" id="node8" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\&lt; T \&gt;\n||}" alt="" coords="763,411,979,488"/>
+<area shape="rect" id="node14" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Core::Vector2i \&gt;\n||}" alt="" coords="897,573,1081,665"/>
+<area shape="rect" id="node17" href="$structRa_1_1Core_1_1AlignedStdVector.html" title="{Ra::Core::AlignedStdVector\l\&lt; Ra::Asset::HandleComponentData \&gt;\n||}" alt="" coords="351,573,600,665"/>
+<area shape="rect" id="node19" href="$classbool.html" title="{bool\n||}" alt="" coords="1106,580,1152,657"/>
+</map>

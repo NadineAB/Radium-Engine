@@ -1,0 +1,5 @@
+<map id="Ra::Engine::DrawPrimitives::Frame" name="Ra::Engine::DrawPrimitives::Frame">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1Colors.html#a5106b4a3ae9cf36ed9f57b733062346c" title="Ra::Core::Colors::Red" alt="" coords="243,5,397,32"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Colors.html#ac6dad1afb4fbb6af3fb605e380dfe34b" title="Ra::Core::Colors::Green" alt="" coords="238,56,402,83"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Colors.html#a749b34eb900efbaade04345f6eea99db" title="Ra::Core::Colors::Blue" alt="" coords="243,107,397,133"/>
+</map>

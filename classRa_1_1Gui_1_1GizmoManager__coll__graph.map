@@ -1,0 +1,13 @@
+<map id="Ra::Gui::GizmoManager" name="Ra::Gui::GizmoManager">
+<area shape="rect" id="node2" href="$classQObject.html" title="{QObject\n||}" alt="" coords="43,1964,113,2041"/>
+<area shape="rect" id="node3" href="$classRa_1_1GuiBase_1_1TransformEditor.html" title="{Ra::GuiBase::TransformEditor\n||+ TransformEditor()\l+ ~TransformEditor()\l+ setEditable()\l+ updateValues()\l# getTransform()\l# setTransform()\l# canEdit()\l# getWorldTransform()\l}" alt="" coords="138,1913,336,2093"/>
+<area shape="rect" id="node4" href="$structRa_1_1Engine_1_1ItemEntry.html" title="{Ra::Engine::ItemEntry\n||+ ItemEntry()\l+ ItemEntry()\l+ operator==()\l+ isValid()\l+ isSelectable()\l+ isEntityNode()\l+ isComponentNode()\l+ isRoNode()\l+ checkConsistency()\l}" alt="" coords="67,1653,219,1848"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1Component.html" title="A component is an element that can be updated by a system. It is also linked to some other components..." alt="" coords="230,1291,428,1589"/>
+<area shape="rect" id="node7" href="$classRa_1_1Core_1_1Index.html" title="{Ra::Core::Index\n||+ Index()\l+ Index()\l+ isValid()\l+ isInvalid()\l+ setInvalid()\l+ getValue()\l+ setValue()\l+ operator int()\l+ operator=()\l+ operator++()\l+ operator&#45;&#45;()\l+ operator+()\l+ operator+()\l+ operator&#45;()\l+ operator&#45;()\l+ operator==()\l+ operator==()\l+ operator!=()\l+ operator!=()\l+ operator\&lt;()\l+ operator\&lt;()\l+ operator\&lt;=()\l+ operator\&lt;=()\l+ operator\&gt;()\l+ operator\&gt;()\l+ operator\&gt;=()\l+ operator\&gt;=()\l+ Invalid()\l+ Max()\l}" alt="" coords="176,147,291,635"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="357,352,472,429"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1System.html" title="{Ra::Engine::System\n||+ System()\l+ ~System()\l+ generateTasks()\l+ registerComponent()\l+ unregisterComponent()\l+ unregisterAllComponents()\l+ getEntityComponents()\l+ handleAssetLoading()\l}" alt="" coords="463,973,651,1153"/>
+<area shape="rect" id="node14" href="$classRa_1_1Engine_1_1Entity.html" title="An entity is an scene element. It ties together components with a transform. " alt="" coords="103,899,277,1226"/>
+<area shape="rect" id="node15" href="$classRa_1_1Core_1_1IndexedObject.html" title="{Ra::Core::IndexedObject\n||+ IndexedObject()\l+ IndexedObject()\l+ ~IndexedObject()\l}" alt="" coords="58,728,224,835"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="684,1024,763,1101"/>
+<area shape="rect" id="node18" title="STL class. " alt="" coords="661,735,787,827"/>
+</map>

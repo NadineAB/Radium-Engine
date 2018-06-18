@@ -1,0 +1,5 @@
+<map id="Ra::Core::Vector::slerp" name="Ra::Core::Vector::slerp">
+<area shape="rect" id="node2" href="$namespaceOpenMesh.html#a575b338f0fc9ecb5393d23e977e6ac38" title="OpenMesh::dot" alt="" coords="235,5,346,32"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Vector.html#a4749dcfe36082199e05b149281a75082" title="Ra::Core::Vector::angle" alt="" coords="211,56,371,83"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Vector.html#a42d87f3bd0658bac532d72f0ec528827" title="Get the cosine of the angle between two vectors. " alt="" coords="215,107,366,133"/>
+</map>

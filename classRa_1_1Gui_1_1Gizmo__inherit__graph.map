@@ -1,0 +1,4 @@
+<map id="Ra::Gui::Gizmo" name="Ra::Gui::Gizmo">
+<area shape="rect" id="node2" href="$classRa_1_1Gui_1_1RotateGizmo.html" title="{Ra::Gui::RotateGizmo\n||+ RotateGizmo()\l+ updateTransform()\l+ selectConstraint()\l+ setInitialState()\l+ mouseMove()\l}" alt="" coords="5,277,157,413"/>
+<area shape="rect" id="node3" href="$classRa_1_1Gui_1_1TranslateGizmo.html" title="{Ra::Gui::TranslateGizmo\n||+ TranslateGizmo()\l+ updateTransform()\l+ selectConstraint()\l+ setInitialState()\l+ mouseMove()\l}" alt="" coords="182,277,348,413"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="MeshFeatureTrackingPlugin::MeshFeatureTrackingPluginC::vertexIdChanged" name="MeshFeatureTrackingPlugin::MeshFeatureTrackingPluginC::vertexIdChanged">
+<area shape="rect" id="node2" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a861fe366bbf18f19af2eff65a99e10ad" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::setVertexIdx" alt="" coords="779,165,1002,221"/>
+<area shape="rect" id="node8" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingPluginC.html#a044454a5138e9d6549ade7c9648a0cc1" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingPluginC\l::update" alt="" coords="256,427,459,483"/>
+<area shape="rect" id="node3" href="$classRa_1_1Engine_1_1Component.html#a10b0bc182b76165744ebea603ae32dfe" title="Shortcut to access the render object manager. " alt="" coords="1059,331,1221,373"/>
+<area shape="rect" id="node4" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a32bd0db0d9620bb7e3f0fe50b541dae3" title="Ra::Engine::RenderObject\lManager::getRenderObject" alt="" coords="1051,397,1229,438"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="1065,180,1215,207"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1RenderObjectManager.html#a4077b9cf9e1e4d62fd5456386f2d72c8" title="Returns true if the index points to a valid render object. " alt="" coords="1278,397,1453,438"/>
+<area shape="rect" id="node6" href="$classRa_1_1Core_1_1Index.html#a87c70243f30c65c1a24834d1829bda01" title="VALID. " alt="" coords="1501,404,1664,431"/>
+<area shape="rect" id="node9" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a7f9f785a0e97dfec002b5a569f087ad6" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::update" alt="" coords="507,296,730,352"/>
+<area shape="rect" id="node12" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a070c4cf514a05514998983ef9ea8333c" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::getFeaturePosition" alt="" coords="779,441,1002,497"/>
+<area shape="rect" id="node18" href="$classMeshFeatureTrackingUI.html#a625d0d3786b6ecac8ecbf3027798e4e9" title="MeshFeatureTrackingUI\l::updateTracking" alt="" coords="537,518,700,559"/>
+<area shape="rect" id="node19" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a8be16956b81c04b73837d1bc2277a50f" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::getFeatureData" alt="" coords="507,583,730,639"/>
+<area shape="rect" id="node20" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a2488fa8b1b29a5cc427ccd2f079e86cf" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::getFeatureVector" alt="" coords="779,521,1002,577"/>
+<area shape="rect" id="node10" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#ae7f3f822c5cd05548c11d92b3ef98931" title="Registers the new center for the sphere. " alt="" coords="779,5,1002,61"/>
+<area shape="rect" id="node14" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#a66ff6e44bfadaa9cb0b5a3f2c09e205e" title="Registers the new scale for the sphere. " alt="" coords="779,85,1002,141"/>
+<area shape="rect" id="node16" href="$classMeshFeatureTrackingPlugin_1_1MeshFeatureTrackingComponent.html#ab8cb3c199c646746382ee3b5f9a76565" title="MeshFeatureTrackingPlugin\l::MeshFeatureTrackingComponent\l::getFeatureScale" alt="" coords="779,361,1002,417"/>
+<area shape="rect" id="node17" href="$classRa_1_1Engine_1_1RenderObject.html#a62e0eb3a7de5a7d352b565a28260cc06" title="Ra::Engine::RenderObject\l::setVisible" alt="" coords="803,245,978,286"/>
+<area shape="rect" id="node11" href="$classRa_1_1Engine_1_1RenderObject.html#a2d6a1bc2b7646fe0912035a2ece24864" title="Ra::Engine::RenderObject\l::setLocalTransform" alt="" coords="1053,21,1227,62"/>
+<area shape="rect" id="node13" href="$namespaceRa_1_1Core.html#af4d19e3d7e24ba7cf24654cee06474b7" title="POINT. " alt="" coords="1094,463,1186,489"/>
+<area shape="rect" id="node15" href="$classRa_1_1Engine_1_1RenderObject.html#af6b3614bed03854e25328b143343fe1e" title="Ra::Engine::RenderObject\l::getLocalTransform" alt="" coords="1053,93,1227,134"/>
+<area shape="rect" id="node21" href="$namespaceRa_1_1Core.html#aa7befada722c44f6bc3d4b64fc8ff100" title="VERTEX. " alt="" coords="1094,579,1186,605"/>
+<area shape="rect" id="node23" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="1077,528,1203,555"/>
+<area shape="rect" id="node22" href="$namespaceRa_1_1Core.html#a6dd9d23e2286b21c927c0cee124c6c1e" title="HALFEDGE. " alt="" coords="1314,579,1417,605"/>
+</map>

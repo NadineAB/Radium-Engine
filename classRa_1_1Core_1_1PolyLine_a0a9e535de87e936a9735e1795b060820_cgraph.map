@@ -1,0 +1,5 @@
+<map id="Ra::Core::PolyLine::f" name="Ra::Core::PolyLine::f">
+<area shape="rect" id="node2" href="$classRa_1_1Core_1_1PolyLine.html#a46ebdffebb144909dfe7e11f4aa41774" title="Get the total length of the line . " alt="" coords="217,5,351,46"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Math.html#ac59d3507a0a632719542d21a16a11bba" title="Clamps the value between 0 and 1. " alt="" coords="201,71,367,97"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Math.html#a43a856c00d750c5f5c28f362b5df8664" title="Returns value v clamped between bounds min and max. " alt="" coords="416,71,571,97"/>
+</map>

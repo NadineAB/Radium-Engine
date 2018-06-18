@@ -1,0 +1,7 @@
+<map id="Ra::GuiBase::BaseApplication::recordFrame" name="Ra::GuiBase::BaseApplication::recordFrame">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core_1_1StringUtils.html#a63b10a7c14473b4aa762cf00e0432690" title="Ra::Core::StringUtils\l::stringPrintf" alt="" coords="275,7,419,49"/>
+<area shape="rect" id="node5" href="$classRa_1_1Gui_1_1Viewer.html#ab3854bf1c656d1f6bf7e12e61251e9dc" title="Write the current frame as an image. Supports either BMP or PNG file names. " alt="" coords="254,75,439,101"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1StringUtils.html#ac348328b878bb8f1b1c1a3335ea20c4b" title="Ra::Core::StringUtils\l::stringvPrintf" alt="" coords="488,5,632,46"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core.html#abc0a3625137098b67838fe52edd480f9" title="SIZE. " alt="" coords="680,12,787,39"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1StringUtils.html#a30480ab8fa5ba3ac2824bf91bcddf7bf" title="Ra::Core::StringUtils\l::getFileExt" alt="" coords="488,70,632,111"/>
+</map>

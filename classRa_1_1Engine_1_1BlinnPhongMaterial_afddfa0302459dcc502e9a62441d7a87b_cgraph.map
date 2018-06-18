@@ -1,0 +1,10 @@
+<map id="Ra::Engine::BlinnPhongMaterial::registerMaterial" name="Ra::Engine::BlinnPhongMaterial::registerMaterial">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Engine_1_1EngineMaterialConverters.html#ac79f2e35d9ad3d13a9aa484bdfcf68fa" title="Ra::Engine::EngineMaterial\lConverters::registerMaterialConverter" alt="" coords="263,5,503,46"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a36842535508a390108fb1205210a5c49" title="Ra::Engine::ShaderConfiguration\lFactory::addConfiguration" alt="" coords="276,70,489,111"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Engine_1_1EngineRenderTechniques.html#affc37bf84d5ff81342b5c09587eedc34" title="Ra::Engine::EngineRender\lTechniques::registerDefaultTechnique" alt="" coords="261,135,504,177"/>
+<area shape="rect" id="node5" href="$classRa_1_1Engine_1_1BlinnPhongMaterial.html#a1678c886bb86bbab2c951ec6228d0c75" title="Ra::Engine::BlinnPhongMaterial\l::isTransparent" alt="" coords="279,201,486,242"/>
+<area shape="rect" id="node7" href="$namespaceRa_1_1Engine_1_1ShaderConfigurationFactory.html#a0bc60f21dbabd745961037f3d2f019c8" title="Ra::Engine::ShaderConfiguration\lFactory::getConfiguration" alt="" coords="276,266,489,307"/>
+<area shape="rect" id="node9" href="$classRa_1_1Engine_1_1RenderTechnique.html#aaf860d7c30aef24f7c24016952cd8f00" title="Ra::Engine::RenderTechnique\l::setConfiguration" alt="" coords="284,331,481,373"/>
+<area shape="rect" id="node6" href="$classRa_1_1Engine_1_1Material.html#aaee4ad66930200c441f908fe45a9f2a0" title="Ra::Engine::Material\l::isTransparent" alt="" coords="588,201,729,242"/>
+<area shape="rect" id="node8" href="$classRa_1_1Engine_1_1ShaderConfiguration.html#a7e20a600c78e8627f0238b342f4b42f2" title="Ra::Engine::ShaderConfiguration\l::getDefaultShaderConfig" alt="" coords="552,266,765,307"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Ra::Core::Geometry::angleWeightedNormal" name="Ra::Core::Geometry::angleWeightedNormal">
+<area shape="rect" id="node2" href="$namespaceRa_1_1Core.html#a28c10004edc39878acecb94c2ca5b837" title="NORMAL. " alt="" coords="247,5,340,32"/>
+<area shape="rect" id="node3" href="$namespaceRa_1_1Core_1_1Algorithm.html#aea294cdb6f4f0d85955bdcccb22886ec" title="Ra::Core::Algorithm::t" alt="" coords="218,56,369,83"/>
+<area shape="rect" id="node4" href="$namespaceRa_1_1Core_1_1Geometry.html#a2ce97206423345716bf1b55f60c1c227" title="Ra::Core::Geometry\l::triangleNormal" alt="" coords="223,107,363,149"/>
+<area shape="rect" id="node6" href="$namespaceRa_1_1Core_1_1Vector.html#a4749dcfe36082199e05b149281a75082" title="Ra::Core::Vector::angle" alt="" coords="213,173,373,200"/>
+<area shape="rect" id="node5" href="$namespaceOpenMesh.html#a71e7f1dd3eac016d2b8245ac408a291c" title="OpenMesh::cross" alt="" coords="421,115,547,141"/>
+</map>
