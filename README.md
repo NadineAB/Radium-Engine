@@ -13,7 +13,7 @@ for an overview of the project.
 * OpenGL 3+ / GLSL 330+
 * Qt Core, Qt Widgets and Qt OpenGL v5.5+ (5.10 recommended)
 * stb_image (in repository)
-* To build : CMake 3.0.+
+* To build : CMake 3.0+
 
 ## Supported compiler and platforms
 
